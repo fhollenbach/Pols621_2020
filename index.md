@@ -63,7 +63,7 @@ Your grade will be based on the following:
   - [Andrew Little: Three Templates for Introductions to Political Science
 Articles](http://www.andrewtlittle.com/papers/little_intros.pdf)
 
-- The final project in this class is to submit a research design for the project outlined in the introduction. Your research design should be about 5 pages long. The research design needs to outline the data sources and methods used. Downloading data from an existing source and running a panel regression is most likely not sufficient. You will all give a short presentation of your research design during our last class session. __The final draft of the research design is due on XXX.__ In addition to the research design, you also combine the introduction and revised research design into the *project description* for an application to the NSF Dissertation Improvement Grants. We will talk more about the research design requirements in class and you can find information about the NSF Dissertation Improvement Grant [here](https://www.nsf.gov/pubs/2015/nsf15571/nsf15571.htm). The goal is for you to be able to submit an application on __June 15, 2019.__ Make sure to prepare for this deadline and talk to your adviser about possibly submitting an application.
+- The final project in this class is to submit a *project description* for an application to the NSF Dissertation Improvement Grants. Specifically you should combine the introduction to your research question with a research design section. First, you will give a short presentation of your research design during our last class session on 04/29/2019.  __The final draft of the *project description* will be due on 05/06/2019.__ We will talk more about the research design requirements in class and you can find information about the NSF Dissertation Improvement Grant [here](https://www.nsf.gov/pubs/2015/nsf15571/nsf15571.htm). The goal is for you to be able to submit an application on __June 15, 2019.__ Make sure to prepare for this deadline and talk to your adviser about possibly submitting an application.
 
 The grading scale (in %) used in this class for all written
 assignments, and the overall class grade will be the following:
@@ -98,13 +98,10 @@ We will be reading both articles and book chapters throughout the semester. I ex
 
 __Required Books:__
 
-    - Dunning, Thad. 2012. "__Natural Experiments in Social Sciences.__" Cambridge University Press. (denoted NESS below)
-    
-    - Seawright, Jason. 2016. "__Multi-Method Social Science.__" Cambridge University Press. (denoted MMSS below)
-    
-    - Angrist, Joshua and Pischke, Joern-Steffen. 2014. "__Mastering Metrics: The Path from Cause to Effect.__" Princeton University Press. (denoted MM below)
-    
-    - King, Gary and Keohane, Robert O. and Verba, Sidney. 1994.  "__Designing Social Inquiry: Scientific Inference in Qualitative Research}''. Princeton University Press.__" (denoted KKV below)
+  - Dunning, Thad. 2012. "__Natural Experiments in Social Sciences.__" Cambridge University Press. (denoted NESS below)
+  - Seawright, Jason. 2016. "__Multi-Method Social Science.__" Cambridge University Press. (denoted MMSS below)
+  - Angrist, Joshua and Pischke, Joern-Steffen. 2014. "__Mastering Metrics: The Path from Cause to Effect.__" Princeton University Press. (denoted MM below)
+  - King, Gary and Keohane, Robert O. and Verba, Sidney. 1994.  "__Designing Social Inquiry: Scientific Inference in Qualitative Research}''. Princeton University Press.__" (denoted KKV below)
     
 
 For part of this class we will be working on the computer with
@@ -216,18 +213,11 @@ __Is the science of comparative politics possible?__
 
 Readings:
 
-1. Boix, Carles & Susan C. Stokes. 2009. Introduction. Boix, Carles and Susan C.
+  - Boix, Carles & Susan C. Stokes. 2009. Introduction. Boix, Carles and Susan C.
 Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press (On Google Team Drive)
-
-2. Lijphart, Arend. (1971). Comparative Politics and the Comparative Method. American Political Science Review, 65(3), 682-693.
-
-3. Przeworski, Adam (2007): Is the Science of Comparative Politics Possible? Boix, Carles and Susan C.
-Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press: 147-
-171.
-
-4. Hall, Peter A. (2003): Aligning Ontology and Methodology in Comparative Research. In: Mahoney,
-James and Dietrich Rueschemeyer (eds.): Comparative Historical Analysis in the Social
-Sciences. Cambridge: Cambridge University Press: 373-404.
+  - Lijphart, Arend. (1971). Comparative Politics and the Comparative Method. American Political Science Review, 65(3), 682-693.
+  - Przeworski, Adam (2007): Is the Science of Comparative Politics Possible? Boix, Carles and Susan C. Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press: 147-171.
+  - Hall, Peter A. (2003): Aligning Ontology and Methodology in Comparative Research. In: Mahoney, James and Dietrich Rueschemeyer (eds.): Comparative Historical Analysis in the Social Sciences. Cambridge: Cambridge University Press: 373-404.
 
 ## (1/21): No Class; MLK day
 
@@ -236,44 +226,39 @@ Sciences. Cambridge: Cambridge University Press: 373-404.
 
 Readings:
 
-    - Sartori, Giovanni. 1970. “Concept Misinformation in Comparative Politics.” American Political Science Review 64(4): 1033-1053.
-
-    - Collier, David, and James E. Mahon. “Conceptual Stretching Revisited: Adapting Categories in Comparative Analysis.” American Political Science Review 87(4): 845-855.
+  - Sartori, Giovanni. 1970. “Concept Misinformation in Comparative Politics.” American Political Science Review 64(4): 1033-1053.
+  - Collier, David, and James E. Mahon. “Conceptual Stretching Revisited: Adapting Categories in Comparative Analysis.” American Political Science Review 87(4): 845-855.
 
 ## Week 3 (02/05): Models and Theory
 
 Readings:
     
-    - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapter 2__ (available electronically through library)
-    
-    - Gerring, John. 2011. "__Social Science Methodology : A Unified Framework.__" Cambridge University Press: Cambridge, MA. __Chapter 3__ (available electronically through library)
+  - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapter 2__ (available electronically through library)
+  - Gerring, John. 2011. "__Social Science Methodology : A Unified Framework.__" Cambridge University Press: Cambridge, MA. __Chapter 3__ (available electronically through library)
      
 
 ## Week 4 (02/12): Case Selection 
 
 Readings: 
-    
-    - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapters 3 & 4__ (available electronically through library)
-    
-    - MMSS Chapter 4
+  
+  - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapters 3 & 4__ (available electronically through library)
+  - MMSS Chapter 4
 
 Additional Readings:
 
-    - Gerring, John. 2007. "__Case Study Research: Principles and Practices." Cambridge University Press: Cambridge, MA. Chapter 4
+  - Gerring, John. 2007. "__Case Study Research: Principles and Practices." Cambridge University Press: Cambridge, MA. Chapter 4
 
 ## Week 5 (02/19): Case Studies & Analytical Narratives
     
 Readings: 
 
-    - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. Chapter 2
-    
-    - MMSS: Chapter 3
-    
-    - Bates, Robert H. and Greif, Avner and Levi, Margaret and Rosenthal, Jean-Laurent and Weingast, Barry R. 1998. "_Analytical Narratives." Princeton University Press. Princeton, NJ: Introduction
+  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. Chapter 2
+  - MMSS: Chapter 3
+  - Bates, Robert H. and Greif, Avner and Levi, Margaret and Rosenthal, Jean-Laurent and Weingast, Barry R. 1998. "_Analytical Narratives." Princeton University Press. Princeton, NJ: Introduction
 
 Additional Readings: 
 
-    - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA.
+  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA.
 
 ## Week 6 (02/26): Concepts of Causal Inference
 
@@ -287,10 +272,23 @@ Additional readings:
 
   - Cunningham: Chapters "Directed acyclical graphs" & "Potential outcomes causal model"
 
+## Week 7 (03/04):  Discovering Natural Experiments & Diff-in-Diffs 
 
+Readings: 
 
+  - Dunning: Chapters 1 & 2
+  - Sekhon, Jasjeet S. and Titiunik, Rocio. 2012. "__When Natural Experiments Are Neither Natural nor Experiments.__" American Political Science Review. 106(1):35–57.
 
-## Week 7 (03/04): 
+Applications __(pick two)__:
+
+  - Galiani, Sebastian and Ernesto Schargrodsky. 2010. "__Property Rights for the Poor: Effects of Land Titling.__" Journal of Public Economics 94(9):700-729.
+  - Blattman, Christopher and Jeannie Annan, 2010. "__The Consequences of Child Soldiering.__" The Review of Economics and Statistics, MIT Press 92(4): 882-898.
+  - Hainmueller, Jens, and Hangartner, Dominik. 2013. "__Who Gets a Swiss Passport? A Natural Experiment in Immigrant Discrimination.__" American Political Science Review. 107(1):159–187
+    
+Additional Reading: 
+
+  - MMSS Chapter 6
+    
 
 ## (03/11) No Class; Spring Break
 
@@ -300,126 +298,88 @@ Readings: TBA
 
 
 
-## Week 9 (03/25) Experiments 
+## Week 9 (03/25)  Regression Discontinuity
 
 Readings:
 
-    - MM: Chapter 1
-    
-    - Duflo, Esther, Rachel Glennerster and Michael Kremer. 2007. "__Using Randomization in Development Economics Research: A Toolkit.__" [http://economics.mit.edu/files/806](http://economics.mit.edu/files/806)  __Chapters 4 & 5__
+  - Dunning: Chapter 3 & section 5.2
+  - MM: chapter 4
 
 Applications __(pick two)__:
 
-    - Habyarimana, Humphreys, Posner, and Weinstein. 2006. "__Why Does Ethnic Diversity Undermine Public Goods Provision? An Experimental Approach.__" American Political Science Review. 109(4): 709-726.
+  - Dell, Melissa. 2010. "__The Persistent Effects of Peru's Mining Mita.__" Econometrica 78(6): 1863-1903.
+  - Dell, Melissa, and Pablo Querubin. 2018. "__Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies__.” Quarterly Journal of Economics 133(2): 701-764.
+  - Brollo, Fernanda and Nannicini, Tommaso. 2012. "__Tying Your Enemy's Hands in Close Races: The Politics of Federal Transfers in Brazil.__" American Political Science Review. 106(4): 742–61. 
+  - Szakonyi, David. 2018. "__Businesspeople in Elected Office: Identifying Private Benefits from Firm-Level Returns.__" American Political Science Review. 112(2): 322–338.
     
-    - Paler, Laura. 2013. "__Keeping the Public Purse: An Experiment in Windfalls, Taxes, and the Incentives to Restrain Government.__" American Political Science Review 104(7): 706-725
+Additional readings: 
+
+  - Cunningham: chapter "Regression discontinuity"
+  - Cattaneo, Matias D. and Idrobo, Nichol\`as and Titiunik, Roc\'io. 2018. "__A Practical Introduction to Regression Discontinuity Designs: Volume II__" Cambridge Elements: Quantitative and Computational Methods for Social Science. Cambridge University Press: Cambridge, MA. [http://www-personal.umich.edu/~titiunik/books/CattaneoIdroboTitiunik2018-Cambridge-Vol2.pdf](http://www-personal.umich.edu/~titiunik/books/CattaneoIdroboTitiunik2018-Cambridge-Vol2.pdf)
+  - Calonico, Sebastian and Cattaneo, Matias D. and Titiunik, Rocio. 2014. "__Robust nonparametric confidence intervals for regression-discontinuity designs.__ Econometrica. 82(6):2295-2326.
+  - Eggers, Andrew C. and Freier, Ronny and Grembi, Veronica and Nannicini, Tommaso. 2018. "__Regression Discontinuity Designs Based on Population Thresholds: Pitfalls and Solutions.__" American Journal of Political Science. 62(1):210-229. 
+
+
+
+
+## Week 10 (04/01) Instrumental Variables 
+
+Readings:
+
+  - Dunning: chapter 4 & section 5.3
+  - MM: chapter 3
+
+Applications  __(pick two)__:
+    
+  - Acharya,  Avidit and Blackwell, Matthew and Sen, Maya. 2016. "__The Political Legacy of American Slavery.__" The Journal of Politics.  78(3): 621-641.
+  - Nunn Nathan. 2008. "__The Long Term Effects of Africa's Slave Trades.__" Quarterly Journal of Economics. 123(1):139-176.
+  - Trounstine, Jessica. 2016."__Segregation and Inequality in Public Goods.__" American Journal of Political Science. 60(3): 709-725.
+    
+Additional readings: 
+  
+  - Cunningham: chapter "Instrumental variables"
+  - Betz, Timm and Cook, Scott J. and Hollenbach, Florian M. 2019. "__Spatial Interdependence and Instrumental Variable Models.__". Political Science Research and Methods. In Print.
+    
+    
+## Week 11 (04/08) Experiments 
+
+Readings:
+  
+  - MM: Chapter 1
+  - Duflo, Esther, Rachel Glennerster and Michael Kremer. 2007. "__Using Randomization in Development Economics Research: A Toolkit.__" [http://economics.mit.edu/files/806](http://economics.mit.edu/files/806)  __Chapters 4 & 5__
+
+Applications __(pick two)__:
+
+  - Habyarimana, Humphreys, Posner, and Weinstein. 2006. "__Why Does Ethnic Diversity Undermine Public Goods Provision? An Experimental Approach.__" American Political Science Review. 109(4): 709-726.
+  - Paler, Laura. 2013. "__Keeping the Public Purse: An Experiment in Windfalls, Taxes, and the Incentives to Restrain Government.__" American Political Science Review 104(7): 706-725
     
 Additional Readings: 
     
-    - MMSS Chapter 7
+  - MMSS Chapter 7
 
-
-## Week 10 (04/01) Discovering Natural Experiments & Diff-in-Diffs 
-
-Readings: 
-
-    - Dunning: Chapters 1 & 2
-    
-    - Sekhon, Jasjeet S. and Titiunik, Rocio. 2012. "__When Natural Experiments Are Neither Natural nor Experiments.__" American Political Science Review. 106(1):35–57.
-
-Applications __(pick two)__:
-
-    - Galiani, Sebastian and Ernesto Schargrodsky. 2010. "__Property Rights for the Poor: Effects of Land Titling.__" Journal of Public Economics 94(9):700-729.
-    
-    - Blattman, Christopher and Jeannie Annan, 2010. "__The Consequences of Child Soldiering.__" The Review of
-
-Economics and Statistics, MIT Press 92(4): 882-898.
-
-    - Hainmueller, Jens, and Hangartner, Dominik. 2013. "__Who Gets a Swiss Passport? A Natural Experiment in Immigrant Discrimination.__" American Political Science Review. 107(1):159–187
-    
-Additional Reading: 
-
-    - MMSS Chapter 6
-    
-## Week 11 (04/08)  Regression Discontinuity
-
-Readings:
-
-    - Dunning: Chapter 3 & section 5.2
-  
-    - MM: chapter 4
-
-Applications __(pick two)__:
-
-    - Dell, Melissa. 2010. "__The Persistent Effects of Peru's Mining Mita.__" Econometrica 78(6): 1863-1903.
-    
-    - Dell, Melissa, and Pablo Querubin. 2018. "__Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies__.” Quarterly Journal of Economics 133(2): 701-764.
-    
-    - Brollo, Fernanda and Nannicini, Tommaso. 2012. "__Tying Your Enemy's Hands in Close Races: The Politics of Federal Transfers in Brazil.__" American Political Science Review. 106(4): 742–61. 
-    
-    - Szakonyi, David. 2018. "__Businesspeople in Elected Office: Identifying Private Benefits from Firm-Level Returns.__" American Political Science Review. 112(2): 322–338.
-    
-Additional readings: 
-    
-    - Cunningham: chapter "Regression discontinuity"
-    
-    - Cattaneo, Matias D. and Idrobo, Nichol\`as and Titiunik, Roc\'io. 2018. "__A Practical Introduction to Regression Discontinuity Designs: Volume II__" Cambridge Elements: Quantitative and Computational Methods for Social Science. Cambridge University Press: Cambridge, MA. [http://www-personal.umich.edu/~titiunik/books/CattaneoIdroboTitiunik2018-Cambridge-Vol2.pdf](http://www-personal.umich.edu/~titiunik/books/CattaneoIdroboTitiunik2018-Cambridge-Vol2.pdf)
-    
-    - Calonico, Sebastian and Cattaneo, Matias D. and Titiunik, Rocio. 2014. "__Robust nonparametric confidence intervals for regression-discontinuity designs.__ Econometrica. 82(6):2295-2326.
-    
-    - Eggers, Andrew C. and Freier, Ronny and Grembi, Veronica and Nannicini, Tommaso. 2018. "__Regression Discontinuity Designs Based on Population Thresholds: Pitfalls and Solutions.__" American Journal of Political Science. 62(1):210-229. 
-
-
-## Week 12 (04/15) Instrumental Variables 
-
-Readings:
-
-    - Dunning: chapter 4 & section 5.3
-    
-    - MM: chapter 3
-
-Applications  __(pick two)__:
-    
-    - Acharya,  Avidit and Blackwell, Matthew and Sen, Maya. 2016. "__The Political Legacy of American Slavery.__" The Journal of Politics.  78(3): 621-641.
-    
-    - Nunn Nathan. 2008. "__The Long Term Effects of Africa's Slave Trades.__" Quarterly Journal of Economics. 123(1):139-176.
-    
-    - Trounstine, Jessica. 2016."__Segregation and Inequality in Public Goods.__" American Journal of Political Science. 60(3): 709-725.
-    
-Additional readings: 
-    
-    - Cunningham: chapter "Instrumental variables"
-
-    - Betz, Timm and Cook, Scott J. and Hollenbach, Florian M. 2019. "__Spatial Interdependence and Instrumental Variable Models.__". Political Science Research and Methods. In Print.
-    
-
-## Week 13 (04/22) Surveys & Survey Experiments
+## Week 12 (04/15) Surveys & Survey Experiments
 
 Readings: 
 
-    - Fowler, Floyd J. 2009. "__Applied Social Research Methods: Survey research methods (4th ed.).__" SAGE Publications:  Thousand Oaks, CA. __Chapters 1 - 3__ (available electronically through library)
-
-    - Hainmueller, Jens and  Hangartner, Dominik and Yamamoto, Teppei. 2015. "__Do survey experiments capture real-world behavior?__" Proceedings of the National Academy of Sciences. [https://www.pnas.org/content/early/2015/01/28/1416587112.short](https://www.pnas.org/content/early/2015/01/28/1416587112.short)
-    
-    
+  - Fowler, Floyd J. 2009. "__Applied Social Research Methods: Survey research methods (4th ed.).__" SAGE Publications:  Thousand Oaks, CA. __Chapters 1 - 3__ (available electronically through library)
+  - Hainmueller, Jens and  Hangartner, Dominik and Yamamoto, Teppei. 2015. "__Do survey experiments capture real-world behavior?__" Proceedings of the National Academy of Sciences. [https://www.pnas.org/content/early/2015/01/28/1416587112.short](https://www.pnas.org/content/early/2015/01/28/1416587112.short)
+   
 Applications  __(pick two)__:
 
-    - Lyall, Jason and Blair, Graeme and Imai, Kosuke. 2013. "__Explaining Support for Combatants during Wartime: A Survey Experiment in Afghanistan.__" American Political Science Review. 107(4):679–705. 
+  - Lyall, Jason and Blair, Graeme and Imai, Kosuke. 2013. "__Explaining Support for Combatants during Wartime: A Survey Experiment in Afghanistan.__" American Political Science Review. 107(4):679–705. 
+  - Frye, Timothy. 2006. "__Original Sin, Good Works, and Property Rights in Russia: Evidence from a Survey Experiment.__" World Politics 58(4):479-504.
+  - Malesky, Eddy J. and Gueorguiev, Dimitar D. and Jensen, Nathan M. 2015. "__Monopoly Money: Foreign Investment and Bribery in Vietnam, a Survey Experiment.__" American Journal of Political Science. 59(2):419-439. 
+  - Blair, Graeme, Kosuke Imai, and Jason Lyall. 2014. "__Comparing and Combining List and Endorsement Experiments: Evidence from Afghanistan.__" American Journal of Political Science. 58(4):1043-1063.
 
-    - Frye, Timothy. 2006. "__Original Sin, Good Works, and Property Rights in Russia: Evidence from a Survey Experiment.__" World Politics 58(4):479-504.
-    
-    - Malesky, Eddy J. and Gueorguiev, Dimitar D. and Jensen, Nathan M. 2015. "__Monopoly Money: Foreign Investment and Bribery in Vietnam, a Survey Experiment.__" American Journal of Political Science. 59(2):419-439. 
-    
-    - Blair, Graeme, Kosuke Imai, and Jason Lyall. 2014. "__Comparing and Combining List and Endorsement Experiments: Evidence from Afghanistan.__" American Journal of Political Science. 58(4):1043-1063.
-
-## Week 14 (04/29) Combining Quantitative and Qualitative Evidence
+## Week 13 (04/22) Combining Quantitative and Qualitative Evidence
 Readings: 
     
-    - Humphreys, Macarten, and Alan M. Jacobs. 2015. “Mixing Methods: A Bayesian Approach.” American Political Science Review 109(4): 653-673
+  - Humphreys, Macarten, and Alan M. Jacobs. 2015. “Mixing Methods: A Bayesian Approach.” American Political Science Review 109(4): 653-673
+  - MMSS Chapter 8
+  - Lieberman, Evan I. 2005. "__Nested Analysis as a Mixed-Method Strategy for Comparative Research.__" American Political Science Review 99(3): 435-452.
     
-    - MMSS Chapter 8
-    
-    - Lieberman, Evan I. 2005. "__Nested Analysis as a Mixed-Method Strategy for Comparative Research.__" American Political Science Review 99(3): 435-452.
-    
+
+## Week 14 (04/29) Research Design Presentations
+
 ## Week 15 (05/06)
 __Final Research Design & NSF Proposal Project Description due__
