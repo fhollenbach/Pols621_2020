@@ -24,15 +24,21 @@ The syllabus on my website [http://fhollenbach.github.io/Polisci621_2019](http:/
 __All assignments are to be submitted electronically via email to fhollenbach@tamu.edu__
 
 ### COURSE DESCRIPTION: 
+The goal of this course is to familiarize PhD students with the various existing approaches to comparative politics research. We will cover different strategies and methods of how to produce high quality research. The course is designed so that students will encounter a number of different perspectives on research in the field of comparative politics. Topics range from  concept formation, case selection, case studies, to concepts of causal inference, experiments, and mixed methods. Students will learn how to evaluate other scholars' research but also practice skills to develop their own research designs. While most readings focus on research design and methods, we will pursue a "hands-on" approach and read as well as replicate applied work (where possible). At the end students should understand the most common approaches to studying comparative politics in the discipline today.
 
 ### LEARNING OUTCOMES:
 At the end of the semester, after completing this course, students are expected to:
 
+- Understand problems of case selection 
 - Understand the concept of causality and experimental designs
+- Understand methods commonly used for inference in observational settings
+- Have developed skills to critically evaluate research 
+- Have develop skills for designing your their own research projects
+
 
 ### COURSE STRUCTURE & REQUIREMENTS:
 
-The class will meet once a week from 1:40pm to 4:30pm on Mondays. Generally you should classes to be about one hour of lecturing and 90 minutes of discussion. We will cover a variety of sometimes complicated concepts. I expect all of you to have __all__ of the *required* reading done before each class period. Even when I lecture, I want you to ask questions and participate actively. In the second part of class we will discuss the readings and applications in more of a group setting. We will also try to work through example applications whenever possible. It is important that you familiarize yourself with R before the class starts. 
+The class will meet once a week from 1:40pm to 4:30pm on Mondays. Generally you should expect classes to be about one hour of lecturing and 90 minutes of discussion. We will cover a variety of concepts, sometimes complicated. I expect you to have done __all__ of the *required* reading before sending discussion questions. Even when I lecture, I want you to ask questions and participate actively. In the second part of class we will discuss the readings and applications in more of a group setting. We will also try to work through example applications whenever possible. It is important that you somewhat familiarize yourself with R in the first few weeks of the semester. 
 
 ###  GRADING & RESPONSIBILITIES:
 
@@ -43,14 +49,14 @@ Your grade will be based on the following:
 3. One in-class presentation (15%)
 4. Two paper reviews, simulating a review for the APSR/AJPS/JOP (20%)
 5. Motivation of Research Question, i.e., paper Introduction (15%)
-6. Final Project Research Design Presentation & Submission (25%)
-7.  NSF Dissertation Improvement Grant proposal (10%) 
+6. Final Project Research Design Presentation (15%)
+7.  NSF Dissertation Improvement Grant proposal (20%) 
 
-- To facilitate discussion, please send two discussion questions about the readings/class topic at 9 am on the day of our class meeting. These could be questions about things you do not understand or criticisms/suggestions about the readings. I will post the collection of your questions to the Google Team Drive by 10:30 am. 
+- To facilitate discussion, please send two discussion questions about the readings/class topic at 9 am on the day of our class meeting. These could be questions about things you do not understand or criticisms/suggestions about the readings. I will post the collection of your questions to the Google Team Drive by 10:30 am. Please try review them briefly before class.
 
-- You will work in teams of two or three to prepare one presentation about an applied paper for one of the class sessions. Your presentation should be a discussion of the paper, include a replication, and potential improvements. You should be critical but constructive. If possible, we may try to establish a video conference with the author(s). 
+- You will work in teams of two or three to prepare one presentation about an applied paper for one of the class sessions. Your presentation should be a discussion of the paper, include a replication, and potential improvements. You should be critical but constructive. Focus especially on the research design and analysis. If possible, we may try to establish a video conference with the author(s). 
 
-- Pick two papers from the list provided in the Google Team Drive. I will assign each of you two due dates for reviews based on your ranked preferences. You should write a review of the paper as if you are reviewing for the APSR/AJPS/JOP. Your review should be at least 1 page single-spaced. On the Google Drive you can find some example reviews done by A&M faculty in previous years __(do not share these reviews)__. Here are some links that may be helpful: 
+- Pick two papers from the list provided in the Google Team Drive. I will assign each of you two due dates for reviews based on your ranked preferences. You should write a review of these papers as if you are reviewing for the APSR/AJPS/JOP. Your review should be at least 1 page single-spaced. On the Google Drive you can find some example reviews done by A&M faculty in previous years __(do not share these reviews)__. Here are some links that may be helpful: 
   - [AJPS Instructions](https://ajps.org/ajps-reviewer-instructions/)
   - [JOP Instructions](http://www.thejournalofpolitics.org/reviewers.html)
   - Miller, Beth & Pevehouse, Jon & Rogowski, Ron & Tingley, Dustin & Wilson, Rick. 2013. "How To Be a Peer Reviewer: A Guide for Recent and Soon-to-be PhDs." PS: Political Science & Politics. 46(1):120-123.
@@ -58,15 +64,16 @@ Your grade will be based on the following:
   - [Nyhan: A Checklist Manifesto for Peer Review](https://thepoliticalmethodologist.com/2015/12/04/a-checklist-manifesto-for-peer-review/)
   - [Humphreys on Discussing and Reviewing](http://www.macartan.nyc/teaching/discuss/)
 
-- Submit 1-2 pages (double spaced) introduction/motivation for your research project. Effectively this should be written like the introduction to an article submission. The introduction should be about the same topic/question as your research design and optimally you will want this to be about (or related to) a possible dissertation topic. The introduction needs to clearly state the question you want to answer, why the reader should care (the puzzle), what and how your work contributes to the literature, and a preview (one paragraph) of the research design. I will provide feedback to you on the introduction during office hours. __This assignment is due on: Date__ Two links that might be helpful when writing the introduction:
+- Submit a 1-2 page (double spaced) introduction/motivation for your research project. Effectively this should be written like the introduction to an article submission. The introduction should be about the same topic/question as your research design and optimally you will want this to be about (or related to) a possible dissertation topic. The introduction needs to clearly state the question you want to answer, why the reader should care (the puzzle), what and how your work contributes to the literature, and a preview (one paragraph) of the research design. I will meet with each of you to provide feedback to you on the introduction during office hours. __This assignment is due on: Date__ Two links that might be helpful when writing the introduction:
   - [Keith Head: The Introduction Formula](http://blogs.ubc.ca/khead/research/research-advice/formula)
   - [Andrew Little: Three Templates for Introductions to Political Science
 Articles](http://www.andrewtlittle.com/papers/little_intros.pdf)
 
-- The final project in this class is to submit a *project description* for an application to the NSF Dissertation Improvement Grants. Specifically you should combine the introduction to your research question with a research design section. First, you will give a short presentation of your research design during our last class session on 04/29/2019.  __The final draft of the *project description* will be due on 05/06/2019.__ We will talk more about the research design requirements in class and you can find information about the NSF Dissertation Improvement Grant [here](https://www.nsf.gov/pubs/2015/nsf15571/nsf15571.htm). The goal is for you to be able to submit an application on __June 15, 2019.__ Make sure to prepare for this deadline and talk to your adviser about possibly submitting an application.
+- The final project in this class is to submit a *project description* for an application to the NSF Dissertation Improvement Grants. Specifically, you should combine the introduction to your research question with a research design section. After receiving feedback on the introduction, you will give a short presentation of your research design during our last class session on 04/29/2019. __The final version of the *project description* will be due on 05/06/2019.__ We will talk more about the research design requirements in class and you can find information about the NSF Dissertation Improvement Grant [here](https://www.nsf.gov/pubs/2015/nsf15571/nsf15571.htm). The goal is for you to be able to submit an application on __June 15, 2019.__ Make sure to prepare for this deadline and talk to your adviser about submitting an application.
 
-The grading scale (in %) used in this class for all written
-assignments, and the overall class grade will be the following:
+Your written assignments will be graded on both content and quality of writing. You can find helpful links on how to write well here: [http://fhollenbach.org/WritingAcademic/](http://fhollenbach.org/WritingAcademic/). Writing is one of the most fundamental skills for academics. All of us struggle and it requires a lot of practice. Do not hesitate to ask for help. If you are having trouble with it, please come see me or visit the University Writing Center (see below).
+
+The grading scale (in %) used in this class for all written assignments, and the overall class grade will be the following:
 
 - A= 89.5
 - B= 79.5–<89.5
@@ -80,9 +87,7 @@ The University Writing Center (UWC), located in 1.214 Sterling C. Evans Library 
 writers. To find out more about UWC
 services or to schedule an appointment, call 458-1455, visit the web
 page at [writingcenter.tamu.edu](writingcenter.tamu.edu), or stop by in person. 
-
-You can find some additional resources for academic writing here: [http://fhollenbach.org/WritingAcademic/](http://fhollenbach.org/WritingAcademic/). Writing is one of the most fundamental skills for academics. All of us struggle and it requires a lot of practice. Do not hesitate to ask for help.
-
+ 
 ### ACADEMIC HONESTY:
 All students should follow the highest standards of academic
 integrity. __Cheating or plagiarism will not be tolerated in any way.__ If
@@ -90,11 +95,11 @@ you are unsure what entails plagiarism, come talk to me. For more
 info, see: [http://student-rules.tamu.edu/aggiecode &
 http://aggiehonor.tamu.edu](http://student-rules.tamu.edu/aggiecode &
 http://aggiehonor.tamu.edu). “An Aggie does not lie, cheat or steal, or
-tolerate those who do.” Your written assignments are to be submitted via Turnitin, which makes the detection of plagiarism and cheating very easy. __Any cases of cheating or plagiarism will be submitted to the academic honor council, no exceptions.__
+tolerate those who do.” __Any cases of cheating or plagiarism will be submitted to the academic honor council, no exceptions.__
 
 ### READINGS & SOFTWARE:
 
-We will be reading both articles and book chapters throughout the semester. I expect you to do __all__ the required readings prior to sending your discussion questions on Monday morning. Since we will use them a lot, you are required to have the following books.
+We will be reading both articles and book chapters throughout the semester. I expect you to do __all__ the required readings prior to sending your discussion questions on Monday morning. Since we will use them a lot, you acquire the following books.
 
 __Required Books:__
 
@@ -107,27 +112,20 @@ __Required Books:__
 For part of this class we will be working on the computer with
 statistical software. We will use the statistical programming language
 __R__. R is available for download [here:](https://cran.revolutionanalytics.com). I would recommend you download
-R-Studio, which is a software (a set of integrated tools) that makes
+R-Studio, which is a software that makes
 the use of R much easier. You can download R-Studio [here:](https://www.rstudio.com/products/rstudio/download2/). Both R and
-R-Studio are free. I would encourage you to install R-studio and play
-around with it for a bit.
+R-Studio are free.
 
 ### CLASSROOM BEHAVIOR, PARTICIPATION, & ELECTRONIC DEVICES:
 
-We will usually once a week during the semester. You can
-expect me to be prepared, give lecture, and answer questions. I expect you to attend class unless circumstances prohibit you from doing so. If you must miss class, please let me know in advance. You are still responsible to do the readings and submit discussion questions and assignments, even if you are missing class. 
+I expect you to attend class unless circumstances prohibit you from doing so. If you must miss class, please let me know in advance. You are still responsible to do the readings and submit discussion questions and assignments, even if you are missing class. If you are sick, however, it is best to stay home. 
 
-I strongly encourage you to not use a laptop in class, unless we are working together in R. Laptops have been shown to be a
-distraction not only to the students using them but also fellow
-class mates. [A recent study has found that not having laptops in class
-can have a similar effect as hiring a SAT tutor](https://www.washingtonpost.com/news/wonk/wp/2016/05/16/why-smart-kids-shouldnt-use-laptops-in-class/?utm_term=.5dd2e4949441) 
+I strongly encourage __everybody__ to participate in class discussion. Please be respectful to your fellow class mates, do not interrupt them, and wait until called upon. 
 
-![Laptops as distraction](https://pbs.twimg.com/media/C9oYA4GUAAI0RKf.jpg:large)
+I strongly encourage you to not use a laptop in class, unless we are working together in R. Laptops have been shown to be a distraction not only to the students using them but also fellow class mates. [A recent study has found that not having laptops in class
+can have a similar effect as hiring a SAT tutor](https://www.washingtonpost.com/news/wonk/wp/2016/05/16/why-smart-kids-shouldnt-use-laptops-in-class/?utm_term=.5dd2e4949441). If you think you have good reasons for why you need to use a computer, however, you may do so.
 
-If you think you have good reasons for why you need to use a computer, you may do so.
-
-In addition, please make sure your cell phones are on silent mode and
-refrain from using them during class time. 
+In addition, please make sure your cell phones are on silent mode and refrain from using them during class time. 
 
 ### ABSENCES & LATE POLICY:
 Except in the case of observance of a religious holiday, to be excused, the student must
@@ -140,13 +138,12 @@ the notice could not be sent prior to the class. Accommodations sought for
 absences due to the observance of a religious holiday can be sought
 either prior or after the absence, but not later than two working days
 after the absence. Legitimate circumstances include religious
-holidays, illness (verified by a doctor), serious family emergencies
+holidays, illness, serious family emergencies
 and participation in group activities sponsored by the University,
 etc. See [http://student-rules.tamu.edu/rule07](http://student-rules.tamu.edu/rule07) for additional
-information. Please note that I do not accept Xeroxed copies of
-medical excuses from students.
+information. 
 
-Unexcused late work will be penalized by a 7.5 percentage point deduction for each 24hrs your work is late. For example, if you hand in the assignment on the same day it is due, but after the stated deadline, your maximum score will be 92.5%. If you hand in your assignment more than 24hrs late, your maximum score will be 85%, after 48hrs it would be 77.5%, and so on. Late work will be excused only in the case of university-excused absences. Only under extreme circumstance will I make exceptions to these rules. 
+All assignments are due on their due date at the beginning of class. Unexcused late work will be penalized by a 7.5 percentage point deduction for each 24hrs your work is late. For example, if you hand in the assignment on the same day it is due, but after class, your maximum score will be 92.5%. If you hand in your assignment more than 24hrs late, e.g., 1:45 pm the next day, your maximum score will be 85%, after 48hrs it would be 77.5%, and so on. Late work will be excused only in the case of university-excused absences. Only under extreme circumstance will I make exceptions to these rules. 
 
 ### RE-GRADING POLICY:
 Students that want to appeal a grade received on an exam or assignment must submit a regrading request in written form (e.g., email). This request has to be turned in within five working days after the graded exams or assignments are returned to the class. The written statement must explain exactly why the student believes the current grade is incorrect. I will then regrade the entire assignment extra carefully. NOTE, as a consequence your grade may go up or down.
@@ -155,15 +152,10 @@ Students that want to appeal a grade received on an exam or assignment must subm
 The best place to ask questions is in the classroom. If your question
 is not related to class material or relevant to other students, we can
 discuss it after class. I encourage you to visit my office hours to
-discuss any difficulties with the readings or homeworks. Again,
-however, you should at least attempt to solve the problem on your own
-first.
+discuss any difficulties with the readings or class. 
 
-You can expect me to reply to emails within 24 hours during the work
-week. I will not reply to emails on the weekend, except for urgent
-matters. As with all business related correspondence, please include
-an appropriate salutation, identify yourself, and write in complete
-sentences.
+You can generally expect me to reply to emails within 24 hours during the work
+week. 
 
 ### DISABILITY:
 All discussions will remain confidential. University policy is in
@@ -213,21 +205,29 @@ __Is the science of comparative politics possible?__
 
 Readings:
 
-  - Boix, Carles & Susan C. Stokes. 2009. Introduction. Boix, Carles and Susan C.
-Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press (On Google Team Drive)
-  - Lijphart, Arend. (1971). Comparative Politics and the Comparative Method. American Political Science Review, 65(3), 682-693.
-  - Przeworski, Adam (2007): Is the Science of Comparative Politics Possible? Boix, Carles and Susan C. Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press: 147-171.
-  - Hall, Peter A. (2003): Aligning Ontology and Methodology in Comparative Research. In: Mahoney, James and Dietrich Rueschemeyer (eds.): Comparative Historical Analysis in the Social Sciences. Cambridge: Cambridge University Press: 373-404.
+  - Boix, Carles & Susan C. Stokes. 2009. "__Introduction.__" Boix, Carles and Susan C. Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press (On Google Team Drive)
+  - Lijphart, Arend. (1971). "__Comparative Politics and the Comparative Method.__" American Political Science Review, 65(3), 682-693.
+  - Przeworski, Adam (2007): "__Is the Science of Comparative Politics Possible?__" Boix, Carles and Susan C. Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press: 147-171. (On Google Team Drive)
+  - Hall, Peter A. (2003): "__Aligning Ontology and Methodology in Comparative Research.__" In: Mahoney, James and Dietrich Rueschemeyer (eds.): Comparative Historical Analysis in the Social Sciences. Cambridge: Cambridge University Press: 373-404. (On Google Team Drive)
 
 ## (1/21): No Class; MLK day
 
 
-## Week 2 (01/28): Concepts
+## Week 2 (01/28): Concepts & Measurement
 
 Readings:
 
   - Sartori, Giovanni. 1970. “Concept Misinformation in Comparative Politics.” American Political Science Review 64(4): 1033-1053.
   - Collier, David, and James E. Mahon. “Conceptual Stretching Revisited: Adapting Categories in Comparative Analysis.” American Political Science Review 87(4): 845-855.
+  - KKV Chapters 1 & 2
+  
+Applications:
+
+  - Treier, Shawn and Jackman, Simon. 2008. "__Democracy as a Latent Variable.__" American Journal of Political Science. 52(1):201-217
+
+Additional Readings:
+
+  - Goertz, Gary. 2006. "__Social Science Concepts: A User’s Guide.__" Princeton: Princeton University Press. 
 
 ## Week 3 (02/05): Models and Theory
 
@@ -235,7 +235,11 @@ Readings:
     
   - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapter 2__ (available electronically through library)
   - Gerring, John. 2011. "__Social Science Methodology : A Unified Framework.__" Cambridge University Press: Cambridge, MA. __Chapter 3__ (available electronically through library)
-     
+  - Clarke, Kevin A., and David M. Primo. 2007. "__Modernizing Political Science: A Model- Based Approach.__" Perspectives on Politics 5(4): 741-753.
+  
+Applications:
+
+  - Svolik, Milan. 2008. "__Authoritarian Reversals and Democratic Consolidation.__" American Political Science Review 102(2): 153–168. 
 
 ## Week 4 (02/12): Case Selection 
 
@@ -243,33 +247,41 @@ Readings:
   
   - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapters 3 & 4__ (available electronically through library)
   - MMSS Chapter 4
+  - KKV Chapter 4
 
 Additional Readings:
 
-  - Gerring, John. 2007. "__Case Study Research: Principles and Practices." Cambridge University Press: Cambridge, MA. Chapter 4
+  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. __Chapter 4__
 
 ## Week 5 (02/19): Case Studies & Analytical Narratives
     
 Readings: 
 
-  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. Chapter 2
+  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. Chapter 2 (on Google Team Drive)
   - MMSS: Chapter 3
-  - Bates, Robert H. and Greif, Avner and Levi, Margaret and Rosenthal, Jean-Laurent and Weingast, Barry R. 1998. "_Analytical Narratives." Princeton University Press. Princeton, NJ: Introduction
+  - Bates, Robert H. and Greif, Avner and Levi, Margaret and Rosenthal, Jean-Laurent and Weingast, Barry R. 1998. "_Analytical Narratives." Princeton University Press. Princeton, NJ: __Introduction__ (on Google Team Drive)
+  - KKV section 6.1 (pages 208-213) 
 
+Applications:
+
+- Skarbek, David. 2011. "__Governance and Prison Gangs.__" American Political Science Review. 105(4): 702–16. 
+  
 Additional Readings: 
 
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA.
-
+  - Skarbek, David. 2016. "__Covenants without the Sword? Comparing Prison Self-Governance Globally.__" American Political Science Review. 110(4): 845–62.
+  
 ## Week 6 (02/26): Concepts of Causal Inference
 
 Readings:
 
-  - Imbens, Guido and Rubin, Donald D. 2015. "__Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction.__" Cambridge University Press: Cambridge, MA. Chapters 1 & 2: pages 3--30
-  - Rubin, Donald 2005. "__Causal Inference Using Potential Outcomes.__" Journal of the American Statistical Association. 100(469):322–331. (on Google Team Drive) 
+  - Imbens, Guido and Rubin, Donald D. 2015. "__Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction.__" Cambridge University Press: Cambridge, MA. Chapters 1 & 2: pages 3--30 (On Google Team Drive)
+  - Rubin, Donald 2005. "__Causal Inference Using Potential Outcomes.__" Journal of the American Statistical Association. 100(469):322–331.  
   - Pearl, Judea and Glymour, Madelyn and Jewell, Nicholas P. 2016. "__Causal Inference in Statistics : A Primer.__" John Wiley & Sons: West Sussex, UK. __Skim Chapter 1 as necessary, Read Chapter 2__ (available electronically through library)
 
 Additional readings: 
 
+  - KKV: Chapter 3
   - Cunningham: Chapters "Directed acyclical graphs" & "Potential outcomes causal model"
 
 ## Week 7 (03/04):  Discovering Natural Experiments & Diff-in-Diffs 
@@ -285,17 +297,23 @@ Applications __(pick two)__:
   - Blattman, Christopher and Jeannie Annan, 2010. "__The Consequences of Child Soldiering.__" The Review of Economics and Statistics, MIT Press 92(4): 882-898.
   - Hainmueller, Jens, and Hangartner, Dominik. 2013. "__Who Gets a Swiss Passport? A Natural Experiment in Immigrant Discrimination.__" American Political Science Review. 107(1):159–187
     
-Additional Reading: 
+Additional Readings: 
 
   - MMSS Chapter 6
     
 
 ## (03/11) No Class; Spring Break
 
-## Week 8 (03/18) Text as Data?
+## Week 8 (03/18) Text as Data
 
-Readings: TBA
+Readings: 
 
+  - Grimmer, Justin and Stewart,  Brandon M. 2013. "__Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.__" Political Analysis. 21(3): 267–97. 
+  - TBA
+  
+Additional Readings: 
+
+  - Silge, Julia and Robinson, David. 2017. "__Text Mining with R: A Tidy Approach.__" O'Reilly Media: Sebastopol, CA. Available here: [https://www.tidytextmining.com/](https://www.tidytextmining.com/)
 
 
 ## Week 9 (03/25)  Regression Discontinuity
@@ -334,7 +352,8 @@ Applications  __(pick two)__:
   - Acharya,  Avidit and Blackwell, Matthew and Sen, Maya. 2016. "__The Political Legacy of American Slavery.__" The Journal of Politics.  78(3): 621-641.
   - Nunn Nathan. 2008. "__The Long Term Effects of Africa's Slave Trades.__" Quarterly Journal of Economics. 123(1):139-176.
   - Trounstine, Jessica. 2016."__Segregation and Inequality in Public Goods.__" American Journal of Political Science. 60(3): 709-725.
-    
+  - Acemoglu, Daron and Johnson, Simon and J.Robinson. 2001. "__The Colonial Origins of Comparative Development: An Empirical Investigation.__" American Economic Review. 91(5):1369–1401
+  
 Additional readings: 
   
   - Cunningham: chapter "Instrumental variables"
@@ -351,8 +370,10 @@ Readings:
 Applications __(pick two)__:
 
   - Habyarimana, Humphreys, Posner, and Weinstein. 2006. "__Why Does Ethnic Diversity Undermine Public Goods Provision? An Experimental Approach.__" American Political Science Review. 109(4): 709-726.
-  - Paler, Laura. 2013. "__Keeping the Public Purse: An Experiment in Windfalls, Taxes, and the Incentives to Restrain Government.__" American Political Science Review 104(7): 706-725
-    
+  - Paler, Laura. 2013. "__Keeping the Public Purse: An Experiment in Windfalls, Taxes, and the Incentives to Restrain Government.__" American Political Science Review 104(7): 706-725.
+  - Grossman, Guy, and Michelitch, Kristin. 2018. "__Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda.__" American Political Science Review. 112(2): 280–301.
+  - Raffler, Pia. 2018. "__Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from an Electoral Autocracy.__". Working Paper. [link](http://piaraffler.com/wp-content/uploads/2018/09/Raffler_Political-Oversight.pdf)
+
 Additional Readings: 
     
   - MMSS Chapter 7
