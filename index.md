@@ -274,10 +274,11 @@ Readings:
   - Bates, Robert H. and Greif, Avner and Levi, Margaret and Rosenthal, Jean-Laurent and Weingast, Barry R. 1998. "__Analytical Narratives.__" Princeton University Press. Princeton, NJ: __Introduction__ (on Google Team Drive)
   - KKV section 6.1 (pages 208-213) 
 
-Applications:
+Applications __(pick one)__:
 
 - Skarbek, David. 2011. "__Governance and Prison Gangs.__" American Political Science Review. 105(4): 702–16. 
-  
+- Weyland, Kurt. 2016. "__Crafting Counterrevolution: How Reactionaries Learned to Combat Change in 1848.__" American Political Science Review. 110(2): 215–31.
+
 Additional Readings: 
 
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA.
