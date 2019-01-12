@@ -241,6 +241,11 @@ Applications:
 
   - Svolik, Milan. 2008. "__Authoritarian Reversals and Democratic Consolidation.__" American Political Science Review. 102(2): 153–168. 
 
+Reviews:
+  
+  1.
+  2.
+  
 ## Week 4 (02/12): Case Selection 
 
 Readings: 
@@ -253,6 +258,11 @@ Additional Readings:
 
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. __Chapter 4__
 
+Reviews:
+  
+  1.
+  2.
+  
 ## Week 5 (02/19): Case Studies & Analytical Narratives
 
 Presentation: 
@@ -273,6 +283,11 @@ Additional Readings:
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA.
   - Skarbek, David. 2016. "__Covenants without the Sword? Comparing Prison Self-Governance Globally.__" American Political Science Review. 110(4): 845–62.
   
+Reviews:
+  
+  1.
+  2.
+  
 ## Week 6 (02/26): Concepts of Causal Inference
 
 Readings:
@@ -286,6 +301,11 @@ Additional readings:
   - KKV: Chapter 3
   - Cunningham: Chapters "Directed acyclical graphs" & "Potential outcomes causal model"
 
+Reviews:
+  
+  1.
+  2.
+  
 ## Week 7 (03/04):  Discovering Natural Experiments & Diff-in-Diffs 
 
 Presentation: 
@@ -305,7 +325,11 @@ Additional Readings:
 
   - MMSS Chapter 6
     
-
+Reviews:
+  
+  1.
+  2.
+  
 ## (03/11) No Class; Spring Break
 
 ## Week 8 (03/18) Text as Data
@@ -321,7 +345,11 @@ Additional Readings:
 
   - Silge, Julia and Robinson, David. 2017. "__Text Mining with R: A Tidy Approach.__" O'Reilly Media: Sebastopol, CA. Available here: [https://www.tidytextmining.com/](https://www.tidytextmining.com/)
 
-
+Reviews:
+  
+  1.
+  2.
+  
 ## Week 9 (03/25)  Regression Discontinuity
 
 Presentation: 
@@ -347,7 +375,7 @@ Additional readings:
   - Calonico, Sebastian and Cattaneo, Matias D. and Titiunik, Rocio. 2014. "__Robust nonparametric confidence intervals for regression-discontinuity designs.__ Econometrica. 82(6):2295-2326.
   - Eggers, Andrew C. and Freier, Ronny and Grembi, Veronica and Nannicini, Tommaso. 2018. "__Regression Discontinuity Designs Based on Population Thresholds: Pitfalls and Solutions.__" American Journal of Political Science. 62(1):210-229. 
 
-
+  
 ## Week 10 (04/01) Instrumental Variables 
 
 Presentation: 
@@ -369,7 +397,11 @@ Additional readings:
   - Cunningham: chapter "Instrumental variables"
   - Betz, Timm and Cook, Scott J. and Hollenbach, Florian M. 2019. "__Spatial Interdependence and Instrumental Variable Models.__". Political Science Research and Methods. In Print.
     
-    
+ Reviews:
+  
+  1.
+  2.
+     
 ## Week 11 (04/08) Experiments 
 
 Presentation: 
@@ -390,6 +422,11 @@ Additional Readings:
     
   - MMSS Chapter 7
 
+Reviews:
+  
+  1.
+  2.
+  
 ## Week 12 (04/15) Surveys & Survey Experiments
 
 Presentation: 
@@ -406,6 +443,11 @@ Applications  __(pick two)__:
   - Malesky, Eddy J. and Gueorguiev, Dimitar D. and Jensen, Nathan M. 2015. "__Monopoly Money: Foreign Investment and Bribery in Vietnam, a Survey Experiment.__" American Journal of Political Science. 59(2):419-439. 
   - Blair, Graeme, Kosuke Imai, and Jason Lyall. 2014. "__Comparing and Combining List and Endorsement Experiments: Evidence from Afghanistan.__" American Journal of Political Science. 58(4):1043-1063.
 
+Reviews:
+  
+  1.
+  2.
+  
 ## Week 13 (04/22) Combining Quantitative and Qualitative Evidence
 Readings: 
     
