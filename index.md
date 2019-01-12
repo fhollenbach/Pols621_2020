@@ -64,7 +64,7 @@ Your grade will be based on the following:
   - [Nyhan: A Checklist Manifesto for Peer Review](https://thepoliticalmethodologist.com/2015/12/04/a-checklist-manifesto-for-peer-review/)
   - [Humphreys on Discussing and Reviewing](http://www.macartan.nyc/teaching/discuss/)
 
-- Submit a 1-2 page (double spaced) introduction/motivation for your research project. Effectively this should be written like the introduction to an article submission. The introduction should be about the same topic/question as your research design and optimally you will want this to be about (or related to) a possible dissertation topic. The introduction needs to clearly state the question you want to answer, why the reader should care (the puzzle), what and how your work contributes to the literature, and a preview (one paragraph) of the research design. I will meet with each of you to provide feedback to you on the introduction during office hours. __This assignment is due on: Date__ Two links that might be helpful when writing the introduction:
+- Submit a 1-2 page (double spaced) introduction/motivation for your research project. Effectively this should be written like the introduction to an article submission. The introduction should be about the same topic/question as your research design and optimally you will want this to be about (or related to) a possible dissertation topic. The introduction needs to clearly state the question you want to answer, why the reader should care (the puzzle), what and how your work contributes to the literature, and a preview (one paragraph) of the research design. I will meet with each of you to provide feedback to you on the introduction during office hours. __This assignment is due on: 03/25/2019__ Two links that might be helpful when writing the introduction:
   - [Keith Head: The Introduction Formula](http://blogs.ubc.ca/khead/research/research-advice/formula)
   - [Andrew Little: Three Templates for Introductions to Political Science
 Articles](http://www.andrewtlittle.com/papers/little_intros.pdf)
@@ -99,7 +99,7 @@ tolerate those who do.” __Any cases of cheating or plagiarism will be submitte
 
 ### READINGS & SOFTWARE:
 
-We will be reading both articles and book chapters throughout the semester. I expect you to do __all__ the required readings prior to sending your discussion questions on Monday morning. Since we will use them a lot, you acquire the following books.
+We will be reading both articles and book chapters throughout the semester. Readings under the header *Additional Readings* are not required, but suggestions for those interested. I expect you to do __all__ the required readings prior to sending your discussion questions on Monday morning. Some of the weeks have substantial amounts of readings, make sure you start early enough. Additionally, some of the methodological work is hard. It is okay if you do not fully understand everything before coming to class, that is what our class meetings are for. Nevertheless, you should read carefully and at least try to understand each article/chapter. We will talk more about *how to read* in our first meeting. Since we will use them a lot, you acquire the following books.
 
 __Required Books:__
 
@@ -217,8 +217,8 @@ Readings:
 
 Readings:
 
-  - Sartori, Giovanni. 1970. “Concept Misinformation in Comparative Politics.” American Political Science Review 64(4): 1033-1053.
-  - Collier, David, and James E. Mahon. “Conceptual Stretching Revisited: Adapting Categories in Comparative Analysis.” American Political Science Review 87(4): 845-855.
+  - Sartori, Giovanni. 1970. "__Concept Misinformation in Comparative Politics.__" American Political Science Review 64(4): 1033-1053.
+  - Collier, David, and James E. Mahon. "__Conceptual Stretching Revisited: Adapting Categories in Comparative Analysis.__" American Political Science Review 87(4): 845-855.
   - KKV Chapters 1 & 2
   
 Applications:
@@ -235,11 +235,11 @@ Readings:
     
   - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapter 2__ (available electronically through library)
   - Gerring, John. 2011. "__Social Science Methodology : A Unified Framework.__" Cambridge University Press: Cambridge, MA. __Chapter 3__ (available electronically through library)
-  - Clarke, Kevin A., and David M. Primo. 2007. "__Modernizing Political Science: A Model- Based Approach.__" Perspectives on Politics 5(4): 741-753.
+  - Clarke, Kevin A., and David M. Primo. 2007. "__Modernizing Political Science: A Model- Based Approach.__" Perspectives on Politics. 5(4): 741-753.
   
 Applications:
 
-  - Svolik, Milan. 2008. "__Authoritarian Reversals and Democratic Consolidation.__" American Political Science Review 102(2): 153–168. 
+  - Svolik, Milan. 2008. "__Authoritarian Reversals and Democratic Consolidation.__" American Political Science Review. 102(2): 153–168. 
 
 ## Week 4 (02/12): Case Selection 
 
@@ -254,12 +254,14 @@ Additional Readings:
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. __Chapter 4__
 
 ## Week 5 (02/19): Case Studies & Analytical Narratives
-    
+
+Presentation: 
+
 Readings: 
 
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. Chapter 2 (on Google Team Drive)
   - MMSS: Chapter 3
-  - Bates, Robert H. and Greif, Avner and Levi, Margaret and Rosenthal, Jean-Laurent and Weingast, Barry R. 1998. "_Analytical Narratives." Princeton University Press. Princeton, NJ: __Introduction__ (on Google Team Drive)
+  - Bates, Robert H. and Greif, Avner and Levi, Margaret and Rosenthal, Jean-Laurent and Weingast, Barry R. 1998. "__Analytical Narratives.__" Princeton University Press. Princeton, NJ: __Introduction__ (on Google Team Drive)
   - KKV section 6.1 (pages 208-213) 
 
 Applications:
@@ -286,6 +288,8 @@ Additional readings:
 
 ## Week 7 (03/04):  Discovering Natural Experiments & Diff-in-Diffs 
 
+Presentation: 
+
 Readings: 
 
   - Dunning: Chapters 1 & 2
@@ -306,6 +310,8 @@ Additional Readings:
 
 ## Week 8 (03/18) Text as Data
 
+Presentation: 
+
 Readings: 
 
   - Grimmer, Justin and Stewart,  Brandon M. 2013. "__Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.__" Political Analysis. 21(3): 267–97. 
@@ -317,6 +323,10 @@ Additional Readings:
 
 
 ## Week 9 (03/25)  Regression Discontinuity
+
+Presentation: 
+
+Submit Introduction/Research Motivation
 
 Readings:
 
@@ -338,9 +348,9 @@ Additional readings:
   - Eggers, Andrew C. and Freier, Ronny and Grembi, Veronica and Nannicini, Tommaso. 2018. "__Regression Discontinuity Designs Based on Population Thresholds: Pitfalls and Solutions.__" American Journal of Political Science. 62(1):210-229. 
 
 
-
-
 ## Week 10 (04/01) Instrumental Variables 
+
+Presentation: 
 
 Readings:
 
@@ -362,6 +372,8 @@ Additional readings:
     
 ## Week 11 (04/08) Experiments 
 
+Presentation: 
+
 Readings:
   
   - MM: Chapter 1
@@ -380,6 +392,8 @@ Additional Readings:
 
 ## Week 12 (04/15) Surveys & Survey Experiments
 
+Presentation: 
+
 Readings: 
 
   - Fowler, Floyd J. 2009. "__Applied Social Research Methods: Survey research methods (4th ed.).__" SAGE Publications:  Thousand Oaks, CA. __Chapters 1 - 3__ (available electronically through library)
@@ -395,9 +409,9 @@ Applications  __(pick two)__:
 ## Week 13 (04/22) Combining Quantitative and Qualitative Evidence
 Readings: 
     
-  - Humphreys, Macarten, and Alan M. Jacobs. 2015. “Mixing Methods: A Bayesian Approach.” American Political Science Review 109(4): 653-673
+  - Humphreys, Macarten, and Alan M. Jacobs. 2015. "__Mixing Methods: A Bayesian Approach.__" American Political Science Review. 109(4): 653-673
   - MMSS Chapter 8
-  - Lieberman, Evan I. 2005. "__Nested Analysis as a Mixed-Method Strategy for Comparative Research.__" American Political Science Review 99(3): 435-452.
+  - Lieberman, Evan I. 2005. "__Nested Analysis as a Mixed-Method Strategy for Comparative Research.__" American Political Science Review. 99(3): 435-452.
     
 
 ## Week 14 (04/29) Research Design Presentations
