@@ -16,7 +16,7 @@ __Office Hours:__ Wedneday 1:00pm to 3:00pm or by appointment
 ### Class Meeting Time:
 Mondays, 1:40pm - 4:30pm
 
-__Class Location:__ Bush Academic Building West (ALLN) TBA
+__Class Location:__ Bush Academic Building West (ALLN) 2115
 
 ### Class Website:
 The syllabus on my website [http://fhollenbach.github.io/Polisci621_2019](http://fhollenbach.github.io/Polisci621_2019) will be continuously updated to reflect any schedule changes. Additional material will be posted on the shared Google Team Drive.
