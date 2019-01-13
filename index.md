@@ -29,11 +29,11 @@ The goal of this course is to familiarize PhD students with the various existing
 ### LEARNING OUTCOMES:
 At the end of the semester, after completing this course, students are expected to:
 
-- Understand problems of case selection 
-- Understand the concept of causality and experimental designs
-- Understand methods commonly used for inference in observational settings
-- Have developed skills to critically evaluate research 
-- Have develop skills for designing your their own research projects
+- Understand:
+  1. problems of case selection, 
+  2. the concept of causality and experimental designs
+- Be able to understand and apply methods commonly used for inference in observational settings
+- Have developed skills to critically evaluate research & for designing their own research projects
 
 
 ### COURSE STRUCTURE & REQUIREMENTS:
