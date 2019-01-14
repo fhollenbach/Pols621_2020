@@ -19,7 +19,7 @@ Mondays, 1:40pm - 4:30pm
 __Class Location:__ Bush Academic Building West (ALLN) 2115
 
 ### Class Website:
-The syllabus on my website [http://fhollenbach.github.io/Polisci621_2019](http://fhollenbach.github.io/Polisci621_2019) will be continuously updated to reflect any schedule changes. Additional material will be posted on the shared Google Team Drive.
+The syllabus on my website [http://fhollenbach.github.io/Pols621_2019](http://fhollenbach.github.io/Pols621_2019) will be continuously updated to reflect any schedule changes. Additional material will be posted on the shared Google Team Drive.
 
 __All assignments are to be submitted electronically via email to fhollenbach@tamu.edu__
 
@@ -218,7 +218,7 @@ Readings:
 Readings:
 
   - Sartori, Giovanni. 1970. "__Concept Misinformation in Comparative Politics.__" American Political Science Review 64(4): 1033-1053.
-  - Collier, David, and James E. Mahon. "__Conceptual Stretching Revisited: Adapting Categories in Comparative Analysis.__" American Political Science Review 87(4): 845-855.
+  - Collier, David, and James E. Mahon. 1993. "__Conceptual Stretching Revisited: Adapting Categories in Comparative Analysis.__" American Political Science Review 87(4): 845-855.
   - KKV Chapters 1 & 2
   
 Applications:
@@ -418,7 +418,8 @@ Applications __(pick two)__:
   - Paler, Laura. 2013. "__Keeping the Public Purse: An Experiment in Windfalls, Taxes, and the Incentives to Restrain Government.__" American Political Science Review 104(7): 706-725.
   - Grossman, Guy, and Michelitch, Kristin. 2018. "__Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda.__" American Political Science Review. 112(2): 280–301.
   - Raffler, Pia. 2018. "__Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from an Electoral Autocracy.__". Working Paper. [link](http://piaraffler.com/wp-content/uploads/2018/09/Raffler_Political-Oversight.pdf)
-
+  - Gottlieb, Jessica. 2016. "__Greater Expectations? A Field Experiment to Improve Accountability in Mali.__" American Journal of Political Science. 60(1): 143-157.
+  
 Additional Readings: 
     
   - MMSS Chapter 7
