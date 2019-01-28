@@ -349,12 +349,13 @@ Readings:
  
   - Grimmer, Justin and Roberts, Margaret E. and Stewart, Brandon M. Chapter 2.  (on Google Team Drive) __(do not share)__
   - Lucas, Christopher and Nielsen, Richard and Roberts, Margaret E. and Stewart, Brandon M. and Storer,  Alex and Tingley, Dustin.  2014.  "__Computer Assisted Text Analysis for Comparative Politics.__" Political Analysis. 23(2): 254-277.
-   - Grimmer, Justin and Stewart,  Brandon M. 2013. "__Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.__" Political Analysis. 21(3): 267–97. (__skim__)
+  - Grimmer, Justin and Stewart,  Brandon M. 2013. "__Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.__" Political Analysis. 21(3): 267–97. (__skim__)
   
   
 Applications __(pick one)__:
-
-  - TBA
+    
+   - King, Gary and Pan, Jennifer and Roberts, Margaret E. 2017. "__How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument.__" American Political Science Review. 111(3): 484-501.
+   - Baerg, Nicole and Will Lowe. 2018. "__A Textual Taylor Rule: Estimating Central Bank Preferences Combining Topic and Scaling Methods.__" Political Science Research and Methods. First View. 
 
 Additional Readings: 
 
