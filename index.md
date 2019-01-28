@@ -364,16 +364,16 @@ Additional Readings:
 Reviews:
   
   Paper 1
-    1. Niels
-    2. Rena
+  1. Niels
+  2. Rena
   
   Paper 2 
-    1. Andrea
-    2. Nasim
+  1. Andrea
+  2. Nasim
   
 ## Week 9 (03/25)  Regression Discontinuity (virtual visit by Pablo Querubin)
 
-Presentation: Joo Won & 
+Presentation: Joo Won 
 
 Submit Introduction/Research Motivation
 
