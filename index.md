@@ -229,7 +229,7 @@ Additional Readings:
 
   - Goertz, Gary. 2006. "__Social Science Concepts: A User’s Guide.__" Princeton: Princeton University Press. 
 
-## Week 3 (02/05): Models and Theory
+## Week 3 (02/04): Models and Theory
 
 Readings:
     
@@ -243,10 +243,10 @@ Applications:
 
 Reviews:
   
-  1.
-  2.
+  1. Niels
+  2. Joo Won 
   
-## Week 4 (02/12): Case Selection 
+## Week 4 (02/11): Case Selection 
 
 Readings: 
   
@@ -260,12 +260,13 @@ Additional Readings:
 
 Reviews:
   
-  1.
-  2.
-  
-## Week 5 (02/19): Case Studies & Analytical Narratives
+  1. Lauren
+  2. Emily
 
-Presentation: 
+  
+## Week 5 (02/18): Case Studies & Analytical Narratives (virtual visit by David Skarbek)
+
+Presentation: Niels, Swarup
 
 Readings: 
 
@@ -286,10 +287,15 @@ Additional Readings:
   
 Reviews:
   
-  1.
-  2.
+  Paper 1
+  1. Rena
+  2. Christy
   
-## Week 6 (02/26): Concepts of Causal Inference
+  Paper 2
+  3. Andrea
+  4. John
+  
+## Week 6 (02/25): Concepts of Causal Inference
 
 Readings:
 
@@ -303,13 +309,14 @@ Additional readings:
   - Cunningham: Chapters "Directed acyclical graphs" & "Potential outcomes causal model"
 
 Reviews:
-  
-  1.
-  2.
+
+  1. Jongwoo
+  2. Nasim
+  3. Ali
   
 ## Week 7 (03/04):  Discovering Natural Experiments & Diff-in-Diffs 
 
-Presentation: 
+Presentation: Rena, Christy
 
 Readings: 
 
@@ -328,32 +335,44 @@ Additional Readings:
     
 Reviews:
   
-  1.
-  2.
+  1. Swarup
+  2. Emily
   
 ## (03/11) No Class; Spring Break
 
-## Week 8 (03/18) Text as Data
+## Week 8 (03/18) Text as Data (visit by Molly Roberts)
 
-Presentation: 
+Presentation: Jongwoo & John
 
 Readings: 
 
-  - Grimmer, Justin and Stewart,  Brandon M. 2013. "__Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.__" Political Analysis. 21(3): 267–97. 
-  - TBA
+ 
+  - Grimmer, Justin and Roberts, Margaret E. and Stewart, Brandon M. Chapter 2.  (on Google Team Drive) __(do not share)__
+  - Lucas, Christopher and Nielsen, Richard and Roberts, Margaret E. and Stewart, Brandon M. and Storer,  Alex and Tingley, Dustin.  2014.  "__Computer Assisted Text Analysis for Comparative Politics.__" Political Analysis. 23(2): 254-277.
+   - Grimmer, Justin and Stewart,  Brandon M. 2013. "__Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.__" Political Analysis. 21(3): 267–97. (__skim__)
   
+  
+Applications __(pick one)__:
+
+  - TBA
+
 Additional Readings: 
 
   - Silge, Julia and Robinson, David. 2017. "__Text Mining with R: A Tidy Approach.__" O'Reilly Media: Sebastopol, CA. Available here: [https://www.tidytextmining.com/](https://www.tidytextmining.com/)
 
 Reviews:
   
-  1.
-  2.
+  Paper 1
+    1. Niels
+    2. Rena
   
-## Week 9 (03/25)  Regression Discontinuity
+  Paper 2 
+    1. Andrea
+    2. Nasim
+  
+## Week 9 (03/25)  Regression Discontinuity (virtual visit by Pablo Querubin)
 
-Presentation: 
+Presentation: Joo Won & 
 
 Submit Introduction/Research Motivation
 
@@ -376,10 +395,13 @@ Additional readings:
   - Calonico, Sebastian and Cattaneo, Matias D. and Titiunik, Rocio. 2014. "__Robust nonparametric confidence intervals for regression-discontinuity designs.__ Econometrica. 82(6):2295-2326.
   - Eggers, Andrew C. and Freier, Ronny and Grembi, Veronica and Nannicini, Tommaso. 2018. "__Regression Discontinuity Designs Based on Population Thresholds: Pitfalls and Solutions.__" American Journal of Political Science. 62(1):210-229. 
 
+  Reviews: 
+  1. Ali
+  2. Maxwell
   
 ## Week 10 (04/01) Instrumental Variables 
 
-Presentation: 
+Presentation: Emily & Ali
 
 Readings:
 
@@ -400,12 +422,12 @@ Additional readings:
     
  Reviews:
   
-  1.
-  2.
+  1. Lauren
+  2. Nasim
      
-## Week 11 (04/08) Experiments 
+## Week 11 (04/08) Experiments  (visit by Jessica Gottlieb)
 
-Presentation: 
+Presentation: (Andrea) & (Maxwell)
 
 Readings:
   
@@ -426,12 +448,12 @@ Additional Readings:
 
 Reviews:
   
-  1.
-  2.
+  1. Swarup
+  2. Christy
   
-## Week 12 (04/15) Surveys & Survey Experiments
+## Week 12 (04/15) Surveys & Survey Experiments (virtual visit by Jason Lyall)
 
-Presentation: 
+Presentation: Lauren & Nasim
 
 Readings: 
 
@@ -447,17 +469,28 @@ Applications  __(pick two)__:
 
 Reviews:
   
-  1.
-  2.
+  Paper 1:
+  1. Joo Won 
+  2. Jongwoo
+  
+  Paper 2:
+  3. Maxwell
+  4. John
   
 ## Week 13 (04/22) Combining Quantitative and Qualitative Evidence
+
+
 Readings: 
     
-  - Humphreys, Macarten, and Alan M. Jacobs. 2015. "__Mixing Methods: A Bayesian Approach.__" American Political Science Review. 109(4): 653-673
+  - Humphreys, Macarten, and Alan M. Jacobs. 2015. "__Mixing Methods: A Bayesian Approach.__" American Political Science Review. 109(4): 653-673.
   - MMSS Chapter 8
   - Lieberman, Evan I. 2005. "__Nested Analysis as a Mixed-Method Strategy for Comparative Research.__" American Political Science Review. 99(3): 435-452.
     
+Applications  __(pick one)__:
 
+  - Nichter, Simeon and Peress, Michael. 2017. "__Request Fulfilling: When Citizens Demand Clientelist Benefits.__" Comparative Political Studies. 50(8): 1086–1117. 
+  - Lyall, Jason and Wilson III, Isaiah. 2009. "__Rage Against the Machines: Explaining Outcomes in Counterinsurgency Wars.__" International Organization. 63(1): 67--106.
+   
 ## Week 14 (04/29) Research Design Presentations
 
 ## Week 15 (05/06)
