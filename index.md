@@ -311,8 +311,7 @@ Additional readings:
 Reviews:
 
   1. Jongwoo
-  2. Nasim
-  3. Ali
+  2. Ali
   
 ## Week 7 (03/04):  Discovering Natural Experiments & Diff-in-Diffs 
 
