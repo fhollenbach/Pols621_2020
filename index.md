@@ -239,7 +239,7 @@ Readings:
   
 Applications:
 
-  - Svolik, Milan. 2008. "__Authoritarian Reversals and Democratic Consolidation.__" American Political Science Review. 102(2): 153–168. 
+  - Svolik, Milan. 2013. "__Learning to Love Democracy: Electoral Accountability, Government Performance, and the Consolidation of Democracy.__" American Journal of Political Science. 57(3): 685-702. 
 
 Reviews:
   
