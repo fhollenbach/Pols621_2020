@@ -372,7 +372,7 @@ Reviews:
   
 ## Week 9 (03/25)  Regression Discontinuity (virtual visit by Pablo Querubin)
 
-Presentation: Joo Won 
+Presentation: Joo Won & Andrea
 
 Submit Introduction/Research Motivation
 
@@ -427,7 +427,7 @@ Additional readings:
      
 ## Week 11 (04/08) Experiments  (visit by Jessica Gottlieb)
 
-Presentation: (Andrea) & (Maxwell)
+Presentation: Maxwell
 
 Readings:
   
