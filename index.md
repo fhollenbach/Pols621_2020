@@ -272,7 +272,7 @@ Readings:
 
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. Chapter 2 (on Google Team Drive)
   - MMSS: Chapter 3
-  - Bates, Robert H. and Greif, Avner and Levi, Margaret and Rosenthal, Jean-Laurent and Weingast, Barry R. 1998. "__Analytical Narratives.__" Princeton University Press. Princeton, NJ: __Introduction__ (on Google Team Drive)
+  - Levi, Margaret and Weingast, Barry R. 2017. "__Analytic Narratives, Case Studies, and Development.__" Working Paper. Available at SSRN: [https://ssrn.com/abstract=2835704](https://ssrn.com/abstract=2835704) (on Google Team Drive)
   - KKV section 6.1 (pages 208-213) 
 
 Applications __(pick one)__:
