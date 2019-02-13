@@ -270,7 +270,7 @@ Presentation: Niels, Swarup
 
 Readings: 
 
-  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. Chapter 2 (on Google Team Drive)
+  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. Chapter 3 (on Google Team Drive)
   - MMSS: Chapter 3
   - Levi, Margaret and Weingast, Barry R. 2017. "__Analytic Narratives, Case Studies, and Development.__" Working Paper. Available at SSRN: [https://ssrn.com/abstract=2835704](https://ssrn.com/abstract=2835704) (on Google Team Drive)
   - KKV section 6.1 (pages 208-213) 
