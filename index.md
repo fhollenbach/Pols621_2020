@@ -17,7 +17,8 @@ __ Andrea Junqueira__
 
 __ Email:__ andrea_junqueira@tamu.edu;
 
-__Office Hours:__ TBA
+__Office Hours:__ Monday 10am to 11am & Thursday 10am to 11 am
+
 
 ### Class Meeting Time:
 Tuesday, 1:30pm - 4:20pm
