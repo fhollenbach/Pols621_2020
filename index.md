@@ -267,8 +267,6 @@ Applications:
 
 Reviews:
   
-  1. Niels
-  2. Joo Won 
   
 ## Week 4 (09/15): Case Selection 
 
@@ -283,14 +281,11 @@ Additional Readings:
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. __Chapter 4__
 
 Reviews:
-  
-  1. Lauren
-  2. Emily
 
   
 ## Week 5 (09/22): Case Studies & Analytical Narratives (virtual visit by David Skarbek)
 
-Presentation: Niels, Swarup
+Presentation:
 
 Readings: 
 
@@ -311,13 +306,6 @@ Additional Readings:
   
 Reviews:
   
-  Paper 1
-  1. Rena
-  2. Christy
-  
-  Paper 2
-  3. Andrea
-  4. John
   
 ## Week 6 (09/29): Concepts of Causal Inference
 
@@ -334,19 +322,18 @@ Additional readings:
 
 Reviews:
 
-  1. Jongwoo
-  2. Ali
-  
 ## Week 7 (10/06):  Discovering Natural Experiments & Diff-in-Diffs 
 
-Presentation: Rena, Christy
+Presentation: 
 
 Readings: 
 
   - Dunning: Chapters 1 & 2
   - Sekhon, Jasjeet S. and Titiunik, Rocio. 2012. "__When Natural Experiments Are Neither Natural nor Experiments.__" American Political Science Review. 106(1):35–57.
-
+  - http://www.thaddunning.com/wp-content/uploads/2015/10/Dunning_Process-Tracing-ch-8_final-before-proofs.pdf
+  
 Applications __(pick two)__:
+- Broockman...
 
   - Galiani, Sebastian and Ernesto Schargrodsky. 2010. "__Property Rights for the Poor: Effects of Land Titling.__" Journal of Public Economics 94(9):700-729.
   - Blattman, Christopher and Jeannie Annan, 2010. "__The Consequences of Child Soldiering.__" The Review of Economics and Statistics, MIT Press 92(4): 882-898.
@@ -358,44 +345,39 @@ Additional Readings:
     
 Reviews:
   
-  1. Swarup
-  2. Emily
-  
-
-## Week 8 (10/13) Text as Data (visit by Molly Roberts)
-
-Presentation: Jongwoo & John
-
-Readings: 
-
- 
-  - Grimmer, Justin and Roberts, Margaret E. and Stewart, Brandon M. Chapter 2.  (on Google Team Drive) __(do not share)__
-  - Lucas, Christopher and Nielsen, Richard and Roberts, Margaret E. and Stewart, Brandon M. and Storer,  Alex and Tingley, Dustin.  2014.  "__Computer Assisted Text Analysis for Comparative Politics.__" Political Analysis. 23(2): 254-277.
-  - Grimmer, Justin and Stewart,  Brandon M. 2013. "__Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.__" Political Analysis. 21(3): 267–97. (__skim__)
-  
-  
-Applications __(pick one)__:
     
-   - King, Gary and Pan, Jennifer and Roberts, Margaret E. 2017. "__How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument.__" American Political Science Review. 111(3): 484-501.
-   - Baerg, Nicole and Will Lowe. 2018. "__A Textual Taylor Rule: Estimating Central Bank Preferences Combining Topic and Scaling Methods.__" Political Science Research and Methods. First View. 
 
+## Week 8 (10/13)  Experiments  
+
+Presentation: 
+
+Readings:
+  
+  - MM: Chapter 1
+  - Duflo, Esther, Rachel Glennerster and Michael Kremer. 2007. "__Using Randomization in Development Economics Research: A Toolkit.__" [http://economics.mit.edu/files/806](http://economics.mit.edu/files/806)  __Chapters 4 & 5__
+ -  https://www.econ.uzh.ch/dam/jcr:33649fc0-473f-49eb-932e-f40a7b5dba99/1091142115614392.pdf
+
+Applications __(pick two)__:
+  - Raffler, paper
+  - Habyarimana, Humphreys, Posner, and Weinstein. 2006. "__Why Does Ethnic Diversity Undermine Public Goods Provision? An Experimental Approach.__" American Political Science Review. 109(4): 709-726.
+  - Paler, Laura. 2013. "__Keeping the Public Purse: An Experiment in Windfalls, Taxes, and the Incentives to Restrain Government.__" American Political Science Review 104(7): 706-725.
+  - Grossman, Guy, and Michelitch, Kristin. 2018. "__Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda.__" American Political Science Review. 112(2): 280–301.
+  - Raffler, Pia. 2018. "__Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from an Electoral Autocracy.__". Working Paper. [link](http://piaraffler.com/wp-content/uploads/2018/09/Raffler_Political-Oversight.pdf)
+  - Gottlieb, Jessica. 2016. "__Greater Expectations? A Field Experiment to Improve Accountability in Mali.__" American Journal of Political Science. 60(1): 143-157.
+  
 Additional Readings: 
-
-  - Silge, Julia and Robinson, David. 2017. "__Text Mining with R: A Tidy Approach.__" O'Reilly Media: Sebastopol, CA. Available here: [https://www.tidytextmining.com/](https://www.tidytextmining.com/)
+    
+  - MMSS Chapter 7
 
 Reviews:
   
-  Paper 1
-  1. Niels
-  2. Rena
+  1. Swarup
+  2. Christy
   
-  Paper 2 
-  1. Andrea
-  2. Nasim
   
-## Week 9 (10/20)  Regression Discontinuity (virtual visit by Pablo Querubin)
+## Week 9 (10/20)  Regression Discontinuity 
 
-Presentation: Joo Won & Andrea
+Presentation: 
 
 Submit Introduction/Research Motivation
 
@@ -424,7 +406,7 @@ Additional readings:
   
 ## Week 10 (10/27) Instrumental Variables 
 
-Presentation: Emily & Ali
+Presentation: 
 
 Readings:
 
@@ -448,32 +430,31 @@ Additional readings:
   1. Lauren
   2. Nasim
      
-## Week 11 (11/03) Experiments  (visit by Jessica Gottlieb)
+## Week 11 (11/03) Big Data & Text as Data
 
-Presentation: Maxwell
+Presentation: 
 
-Readings:
+Readings: 
+
+ 
+  - Grimmer, Justin and Roberts, Margaret E. and Stewart, Brandon M. Chapter 2.  (on Google Team Drive) __(do not share)__
+  - Lucas, Christopher and Nielsen, Richard and Roberts, Margaret E. and Stewart, Brandon M. and Storer,  Alex and Tingley, Dustin.  2014.  "__Computer Assisted Text Analysis for Comparative Politics.__" Political Analysis. 23(2): 254-277.
+  - Grimmer, Justin and Stewart,  Brandon M. 2013. "__Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts.__" Political Analysis. 21(3): 267–97. (__skim__)
   
-  - MM: Chapter 1
-  - Duflo, Esther, Rachel Glennerster and Michael Kremer. 2007. "__Using Randomization in Development Economics Research: A Toolkit.__" [http://economics.mit.edu/files/806](http://economics.mit.edu/files/806)  __Chapters 4 & 5__
-
-Applications __(pick two)__:
-
-  - Habyarimana, Humphreys, Posner, and Weinstein. 2006. "__Why Does Ethnic Diversity Undermine Public Goods Provision? An Experimental Approach.__" American Political Science Review. 109(4): 709-726.
-  - Paler, Laura. 2013. "__Keeping the Public Purse: An Experiment in Windfalls, Taxes, and the Incentives to Restrain Government.__" American Political Science Review 104(7): 706-725.
-  - Grossman, Guy, and Michelitch, Kristin. 2018. "__Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda.__" American Political Science Review. 112(2): 280–301.
-  - Raffler, Pia. 2018. "__Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from an Electoral Autocracy.__". Working Paper. [link](http://piaraffler.com/wp-content/uploads/2018/09/Raffler_Political-Oversight.pdf)
-  - Gottlieb, Jessica. 2016. "__Greater Expectations? A Field Experiment to Improve Accountability in Mali.__" American Journal of Political Science. 60(1): 143-157.
   
-Additional Readings: 
+Applications __(pick one)__:
     
-  - MMSS Chapter 7
+   - King, Gary and Pan, Jennifer and Roberts, Margaret E. 2017. "__How the Chinese Government Fabricates Social Media Posts for Strategic Distraction, not Engaged Argument.__" American Political Science Review. 111(3): 484-501.
+   - Baerg, Nicole and Will Lowe. 2018. "__A Textual Taylor Rule: Estimating Central Bank Preferences Combining Topic and Scaling Methods.__" Political Science Research and Methods. First View. 
+
+Additional Readings: 
+
+  - Silge, Julia and Robinson, David. 2017. "__Text Mining with R: A Tidy Approach.__" O'Reilly Media: Sebastopol, CA. Available here: [https://www.tidytextmining.com/](https://www.tidytextmining.com/)
 
 Reviews:
   
-  1. Swarup
-  2. Christy
   
+
 ## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by Jason Lyall)
 
 Presentation: Lauren & Nasim
