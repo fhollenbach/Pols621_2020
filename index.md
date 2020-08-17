@@ -1,6 +1,6 @@
 ---
 title: Class Syllabus for Polisci 621
-description: Comparative Politics Research Design & Methods
+description: Theory and Methods in Comparative Politics (Research Design & Methods) -- Fall 2020 
 ---
 
 ### Instructor:
@@ -8,37 +8,51 @@ __Professor Florian M. Hollenbach__
 
 __Email:__ fhollenbach@tamu.edu; __Web:__ [fhollenbach.org](fhollenbach.org)
 
-__Office:__ 2061 Allen Building; __Phone:__ 979-845-5021
+__Office:__ 332 LASB Building; __Phone:__ 979-845-5021
 
-__Office Hours:__ Wedneday 1:00pm to 3:00pm or by appointment
+__Office Hours:__ Wednesday 3:00pm to 5:00pm or by appointment
 
+### Teaching Assistant:
+__ Andrea Junqueira__
+
+__ Email:__ andrea_junqueira@tamu.edu;
+
+__Office Hours:__ TBA
 
 ### Class Meeting Time:
-Mondays, 1:40pm - 4:30pm
+Tuesday, 1:30pm - 4:20pm
 
-__Class Location:__ Bush Academic Building West (ALLN) 2115
+__Class Location:__ Zoom
 
 ### Class Website:
-The syllabus on my website [http://fhollenbach.github.io/Pols621_2019](http://fhollenbach.github.io/Pols621_2019) will be continuously updated to reflect any schedule changes. Additional material will be posted on the shared Google Team Drive.
+The syllabus on my website [http://fhollenbach.github.io/Pols621_2020](http://fhollenbach.github.io/Pols621_2020) will be continuously updated to reflect any schedule changes. Additional material will be posted on the shared Google Team Drive. We may use Canvas occasionally.
 
 __All assignments are to be submitted electronically via email to fhollenbach@tamu.edu__
 
 ### COURSE DESCRIPTION: 
-The goal of this course is to familiarize PhD students with the various existing approaches to comparative politics research. We will cover different strategies and methods of how to produce high quality research. The course is designed so that students will encounter a number of different perspectives on research in the field of comparative politics. Topics range from  concept formation, case selection, case studies, to concepts of causal inference, experiments, and mixed methods. Students will learn how to evaluate other scholars' research but also practice skills to develop their own research designs. While most readings focus on research design and methods, we will pursue a "hands-on" approach and read as well as replicate applied work (where possible). At the end students should understand the most common approaches to studying comparative politics in the discipline today.
+The goal of this course is to familiarize PhD students with the various existing approaches to research in comparative politics. We will cover different strategies and methods of how to produce high quality research. The course is designed so that students will encounter a number of different perspectives on research in the field of comparative politics. Topics range from  concept formation, case selection, case studies, to concepts of causal inference with observational data, experiments, and mixed methods. Students will learn how to evaluate other scholars' research but also practice skills to develop their own research designs. While most readings focus on research design and methods, we will pursue a "hands-on" approach and read as well as replicate applied work (where possible). At the end students should understand the most common approaches to studying comparative politics in the discipline today.
 
 ### LEARNING OUTCOMES:
 At the end of the semester, after completing this course, students are expected to:
 
 - Understand:
   1. problems of case selection, 
-  2. the concept of causality and experimental designs
+  2. the concept of causality
+  3. the limits and strengths of observational data 
+  4. experimental designs
 - Be able to understand and apply methods commonly used for inference in observational settings
+- Write critical but constructive reviews of peers' research
 - Have developed skills to critically evaluate research & for designing their own research projects
 
 
 ### COURSE STRUCTURE & REQUIREMENTS:
 
-The class will meet once a week from 1:40pm to 4:30pm on Mondays. Generally you should expect classes to be about one hour of lecturing and 90 minutes of discussion. We will cover a variety of concepts, sometimes complicated. I expect you to have done __all__ of the *required* reading before sending discussion questions. Even when I lecture, I want you to ask questions and participate actively. In the second part of class we will discuss the readings and applications in more of a group setting. We will also try to work through example applications whenever possible. It is important that you somewhat familiarize yourself with R in the first few weeks of the semester. 
+The class will meet once a week from 1:30pm to 4:20pm on Tuesdays. For most weeks, you should expect classes to be about one hour of lecturing and 90 minutes of discussion. We will cover a variety of concepts, sometimes complicated. I expect you to have done __all__ of the *required* reading before sending discussion questions. Even when I lecture, I want you to ask questions and participate actively. In the second part of class we will discuss the readings and applications in more of a group setting. We will also try to work through example applications whenever possible. 
+
+
+For part of this class we will be working on the computer with statistical software. We will use the statistical programming language __R__. R is available for download [here:](https://cran.revolutionanalytics.com). I would recommend you download R-Studio, which is a software that makes the use of R much easier. You can download R-Studio [here:](https://www.rstudio.com/products/rstudio/download2/). Both R and R-Studio are free.
+
+It is important that you somewhat familiarize yourself with R in the first few weeks of the semester. Here is a short document on how to write good r-code: [https://github.com/fhollenbach/CodingRules/blob/master/Best_practices_R.pdf](https://github.com/fhollenbach/CodingRules/blob/master/Best_practices_R.pdf). The document also includes some links to resources for learning R, e.g.,[https://github.com/Joscelinrocha/Learning-R-resources/wiki](https://github.com/Joscelinrocha/Learning-R-resources/wiki).
 
 ###  GRADING & RESPONSIBILITIES:
 
@@ -50,13 +64,40 @@ Your grade will be based on the following:
 4. Two paper reviews, simulating a review for the APSR/AJPS/JOP (20%)
 5. Motivation of Research Question, i.e., paper Introduction (15%)
 6. Final Project Research Design Presentation (15%)
-7.  NSF Dissertation Improvement Grant proposal (20%) 
+7. NSF Dissertation Improvement Grant proposal (20%) 
 
-- To facilitate discussion, please send two discussion questions about the readings/class topic at 9 am on the day of our class meeting. These could be questions about things you do not understand or criticisms/suggestions about the readings. I will post the collection of your questions to the Google Team Drive by 10:30 am. Please try review them briefly before class.
+#### Readings
 
-- You will work in teams of two or three to prepare one presentation about an applied paper for one of the class sessions. Your presentation should be a discussion of the paper, include a replication, and potential improvements. You should be critical but constructive. Focus especially on the research design and analysis. If possible, we may try to establish a video conference with the author(s). 
+We will be reading both articles and book chapters throughout the semester. Readings under the header Additional Readings are not required, but suggestions for those interested in the particular topic. This is a PhD student level seminar; as such I expect all students to come to class prepared, having read __all required material__ prior to sending discussion questions on Wednesday mornings. I also expect you to complete relevant assignments on time.
 
-- Pick two papers from the list provided in the Google Team Drive. I will assign each of you two due dates for reviews based on your ranked preferences. You should write a review of these papers as if you are reviewing for the APSR/AJPS/JOP. Your review should be at least 1 page single-spaced. On the Google Drive you can find some example reviews done by A&M faculty in previous years __(do not share these reviews)__. Here are some links that may be helpful: 
+Some of the weeks have substantial amounts of readings that may take significant time to get through. Make sure you start early enough. Additionally, some of the methodological work will be difficult. It is okay if you do not fully understand everything before coming to class, that is what our class meetings are for. Nevertheless, read carefully and try to understand each article/chapter. Take notes on your readings, especially on parts you do not understand.
+
+If you have not done so, I would advise you to develop a consistent system of reading and taking notes. We will discuss some approaches to reading early in the semester.
+
+Since we will read large parts of them, you should acquire the following books:
+
+__Required Books:__
+  - Seawright, Jason. 2016. "__Multi-Method Social Science.__" Cambridge University Press. (denoted MMSS below)
+  - Angrist, Joshua and Pischke, Joern-Steffen. 2014. "__Mastering Metrics: The Path from Cause to Effect.__" Princeton University Press. (denoted MM below)
+  - King, Gary and Keohane, Robert O. and Verba, Sidney. 1994.  "__Designing Social Inquiry: Scientific Inference in Qualitative Research}''. Princeton University Press.__" (denoted KKV below)
+  - We will also reference Scott Cunningham's "__Causal Inference: The Mixtape__" frequently. You can find a free version of the book here: [https://www.scunning.com/causalinference_norap.pdf](https://www.scunning.com/causalinference_norap.pdf). You can also think of this book as an additional resource if you do not understand material presented elsewhere. 
+
+When reading applied papers, you should think about questions such as:
+    - Question/Framing: What is the question the authors are trying to answer in this work? Is this work important?
+    - Theory: Is there an original contribution in the theoretical part of the work? Is the theoretical argument coherent? Are the mechanisms elaborated sufficiently? Are the assumptions plausible? Do the hypotheses follow logically from the theoretical argument? Are there theoretical implications that the authors missed?
+    - __Research Design:__ What is the unit of analysis? What is the research design? Does the research design allow the authors to test the specified hypotheses? Does it allow them to answer the question posed in their work? Are there important issues the authors missed? How could the research design be improved? Does the research design allow for causal identification? If not, why not? Is the description of the research design sufficient?
+    - Data: Are variables adequately measured and do they correspond to the concepts of interest? Could we improve the authors’ measures? Are other (better) data available to investigate these questions? Is the description of the data sufficient to replicate the authors’ results?
+    - Findings: Are the results correctly interpreted? Are the findings substantively important? How do the results correspond to the theory? Are there other potential explanations that are not ruled out by the research design? Are the authors interpreting the results causally? If so, is that justified?
+    - Writing: Which sections of the paper are well/poorly written? Why? Are there parts that are particularly exciting/convincing? If so, for what reason? Does the introduction make you want to continue reading the work? What do you think about the overall structure of the work? Pay particular attention to the abstract and introduction.
+
+#### Discussion Points:
+- To facilitate discussion, please send two discussion questions/points about the readings/class topic at noon on Monday (the day before our class meeting). These could be questions about things you do not understand or criticisms/suggestions about the readings. I will post the collection of your discussion points to the Google Team Drive by 5:00 pm on Mondays. Please try review them briefly before class.
+
+#### Presentation
+- Each of you will prepare one presentation about an applied paper for one of the class sessions. Your presentation should be a discussion of the paper and discuss potential short comings or improvements. You should be critical but constructive. Focus especially on the research design and analysis. If possible, we may try to establish a video conference with the author(s). 
+
+#### Peer Review
+- Pick two papers from the list provided in the Google Team Drive. I will assign each of you two due dates for reviews based on your ranked preferences. You should write a review of these papers as if you are reviewing for the APSR/AJPS/JOP. Your review should be at least 1 page single-spaced. On the Google Drive you can find some example reviews done by A&M faculty in previous years __(do not share these reviews)__. Here are some links that may be helpful before writing your first review: 
   - [AJPS Instructions](https://ajps.org/ajps-reviewer-instructions/)
   - [JOP Instructions](http://www.thejournalofpolitics.org/reviewers.html)
   - Miller, Beth & Pevehouse, Jon & Rogowski, Ron & Tingley, Dustin & Wilson, Rick. 2013. "How To Be a Peer Reviewer: A Guide for Recent and Soon-to-be PhDs." PS: Political Science & Politics. 46(1):120-123.
@@ -64,14 +105,18 @@ Your grade will be based on the following:
   - [Nyhan: A Checklist Manifesto for Peer Review](https://thepoliticalmethodologist.com/2015/12/04/a-checklist-manifesto-for-peer-review/)
   - [Humphreys on Discussing and Reviewing](http://www.macartan.nyc/teaching/discuss/)
 
-- Submit a 1-2 page (double spaced) introduction/motivation for your research project. Effectively this should be written like the introduction to an article submission. The introduction should be about the same topic/question as your research design and optimally you will want this to be about (or related to) a possible dissertation topic. The introduction needs to clearly state the question you want to answer, why the reader should care (the puzzle), what and how your work contributes to the literature, and a preview (one paragraph) of the research design. I will meet with each of you to provide feedback to you on the introduction during office hours. __This assignment is due on: 03/25/2019__ Two links that might be helpful when writing the introduction:
+#### Introduction/Research Motivation
+- Submit a 1-2 page (double spaced) introduction/motivation for your research project. Effectively this should be written like the introduction to an article submission. The introduction should be about the same topic/question as your research design and optimally you will want this to be about (or related to) a possible dissertation topic. The introduction needs to clearly state the question you want to answer, why the reader should care, what and how your work contributes to the literature, and a preview (one paragraph) of the research design. Please be ambitious when it comes to your research question and a possible research design. I will meet with each of you to provide feedback to you on the introduction during office hours. __This assignment is due on: 03/25/2019__ Two links that might be helpful when writing the introduction:
   - [Keith Head: The Introduction Formula](http://blogs.ubc.ca/khead/research/research-advice/formula)
   - [Andrew Little: Three Templates for Introductions to Political Science
 Articles](http://www.andrewtlittle.com/papers/little_intros.pdf)
 
-- The final project in this class is to submit a *project description* for an application to the NSF Dissertation Improvement Grants. Specifically, you should combine the introduction to your research question with a research design section. After receiving feedback on the introduction, you will give a short presentation of your research design during our last class session on 04/29/2019. __The final version of the *project description* will be due on 05/06/2019.__ We will talk more about the research design requirements in class and you can find information about the NSF Dissertation Improvement Grant [here](https://www.nsf.gov/pubs/2015/nsf15571/nsf15571.htm). The goal is for you to be able to submit an application on __June 15, 2019.__ Make sure to prepare for this deadline and talk to your adviser about submitting an application.
+#### Research Design
+- The final project in this class is to submit a __research design__. Your final project will be a research design for a future paper or possible dissertation project. Specifically, you should combine the introduction to your research question with a research design section. After receiving feedback on the introduction, you will give a short presentation of your research design during our last class session on 11/24/2019. This presentation may be attended by other faculty in the department, with the goal of providing constructive feedback to you. Your final project (and presentation) does not need to include data or data analysis. Instead, focus on writing up a clear research design that will allow you to empirically investigate your research question in the best possible way. What are the observable implications of your argument? What research design will allow you to best discriminate between different explanations? How could you best identify a causal relationship? 
+- Your research design should be __ambitious__. Think hard about what you would like to do in your research, maybe even dream a little. 
+- One goal of the research design is that you could possibly use it for an application to the NSF Dissertation Improvement Grants.  You can find information about the NSF Dissertation Improvement Grant [here](https://www.nsf.gov/pubs/2015/nsf15571/nsf15571.htm) (though with the restructuring of NSF, things might change a bit). The goal is for you to be able to submit an application in the spring or summer of 2020. Talk to your advisers about possibly submitting an application.
 
-Your written assignments will be graded on both content and quality of writing. You can find helpful links on how to write well here: [http://fhollenbach.org/WritingAcademic/](http://fhollenbach.org/WritingAcademic/). Writing is one of the most fundamental skills for academics. All of us struggle and it requires a lot of practice. Do not hesitate to ask for help. If you are having trouble with it, please come see me or visit the University Writing Center (see below).
+Your written assignments will be graded on both content and quality of writing. Again, I want you to be ambitious in your research designs. You can find helpful links on how to write well here: [http://fhollenbach.org/WritingAcademic/](http://fhollenbach.org/WritingAcademic/). Writing is one of the most fundamental skills for academics. All of us struggle and it requires a lot of practice. Do not hesitate to ask for help. If you are having trouble with it, please talk to me or visit the University Writing Center (see below).
 
 The grading scale (in %) used in this class for all written assignments, and the overall class grade will be the following:
 
@@ -86,46 +131,36 @@ The University Writing Center (UWC), located in 1.214 Sterling C. Evans Library 
 205 West Campus Library, offers one-on-one consultations to
 writers. To find out more about UWC
 services or to schedule an appointment, call 458-1455, visit the web
-page at [writingcenter.tamu.edu](writingcenter.tamu.edu), or stop by in person. 
+page at [https://writingcenter.tamu.edu/](https://writingcenter.tamu.edu/), or stop by in person. 
  
 ### ACADEMIC HONESTY:
-All students should follow the highest standards of academic
-integrity. __Cheating or plagiarism will not be tolerated in any way.__ If
-you are unsure what entails plagiarism, come talk to me. For more
-info, see: [http://student-rules.tamu.edu/aggiecode &
-http://aggiehonor.tamu.edu](http://student-rules.tamu.edu/aggiecode &
-http://aggiehonor.tamu.edu). “An Aggie does not lie, cheat or steal, or
-tolerate those who do.” __Any cases of cheating or plagiarism will be submitted to the academic honor council, no exceptions.__
+"An Aggie does not lie, cheat or steal, or tolerate those who do."
 
-### READINGS & SOFTWARE:
+"Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case" [Section 20.1.2.3, Student Rule 20](https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-Rules).
 
-We will be reading both articles and book chapters throughout the semester. Readings under the header *Additional Readings* are not required, but suggestions for those interested. I expect you to do __all__ the required readings prior to sending your discussion questions on Monday morning. Some of the weeks have substantial amounts of readings, make sure you start early enough. Additionally, some of the methodological work is hard. It is okay if you do not fully understand everything before coming to class, that is what our class meetings are for. Nevertheless, you should read carefully and at least try to understand each article/chapter. We will talk more about *how to read* in our first meeting. Since we will use them a lot, you acquire the following books.
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at [aggiehonor.tamu.edu](aggiehonor.tamu.edu).
 
-__Required Books:__
-
-  - Dunning, Thad. 2012. "__Natural Experiments in Social Sciences.__" Cambridge University Press. (denoted NESS below)
-  - Seawright, Jason. 2016. "__Multi-Method Social Science.__" Cambridge University Press. (denoted MMSS below)
-  - Angrist, Joshua and Pischke, Joern-Steffen. 2014. "__Mastering Metrics: The Path from Cause to Effect.__" Princeton University Press. (denoted MM below)
-  - King, Gary and Keohane, Robert O. and Verba, Sidney. 1994.  "__Designing Social Inquiry: Scientific Inference in Qualitative Research}''. Princeton University Press.__" (denoted KKV below)
-    
-
-For part of this class we will be working on the computer with
-statistical software. We will use the statistical programming language
-__R__. R is available for download [here:](https://cran.revolutionanalytics.com). I would recommend you download
-R-Studio, which is a software that makes
-the use of R much easier. You can download R-Studio [here:](https://www.rstudio.com/products/rstudio/download2/). Both R and
-R-Studio are free.
+All students should follow the highest standards of academic integrity. __Cheating or plagiarism will not be tolerated in any way and will have grave consequences for your academic career.__ If you are unsure what entails plagiarism, come talk to me. __Any cases of cheating or plagiarism will be submitted to the academic honor council, no exceptions.__
 
 ### CLASSROOM BEHAVIOR, PARTICIPATION, & ELECTRONIC DEVICES:
 
-I expect you to attend class unless circumstances prohibit you from doing so. If you must miss class, please let me know in advance. You are still responsible to do the readings and submit discussion questions and assignments, even if you are missing class. If you are sick, however, it is best to stay home. 
+I expect you to attend class unless circumstances prohibit you from doing so. If you must miss class, please let me know in advance. You are still responsible to do the readings and submit discussion questions and assignments, even if you are missing class. Of course, this semester is full of unusual circumstances. If you have trouble following the class or fulfilling any of the requirements, please speak to me early on. Similarly, if you get sick, let me know. 
 
 I strongly encourage __everybody__ to participate in class discussion. Please be respectful to your fellow class mates, do not interrupt them, and wait until called upon. 
 
-I strongly encourage you to not use a laptop in class, unless we are working together in R. Laptops have been shown to be a distraction not only to the students using them but also fellow class mates. [A recent study has found that not having laptops in class
-can have a similar effect as hiring a SAT tutor](https://www.washingtonpost.com/news/wonk/wp/2016/05/16/why-smart-kids-shouldnt-use-laptops-in-class/?utm_term=.5dd2e4949441). If you think you have good reasons for why you need to use a computer, however, you may do so.
+While we are all on the computer during class, please try to keep distractions to a minimum. In addition, please make sure your cell phones are on silent mode and refrain from using them or other devices during class time. 
 
-In addition, please make sure your cell phones are on silent mode and refrain from using them during class time. 
+### Classroom Code of Conduct
+
+The Department of Political Science at Texas A&M University is committed to fostering an environment of learning and scholarship that is open, respectful, and welcoming to all, regardless of race, religion, gender (identity), ability, age, socio-economic background, or sexual orientation. As outlined in the department’s Code of Conduct, we strive to create a positive climate for all students, faculty, and staff. We are dedicated to providing a harassment-free experience for all members and guests of the department. 
+Whereas, we expect members of the political science department to adhere to the departmental Code of Conduct in general, respectful behavior by all participants is especially important in the classroom and other course-related interactions (virtual and in-person). An environment conducive to learning and scholarship requires free speech and an open mind, but must be free of harassment[^1], hostile, or threatening behaviors. Faculty, staff, and students ought to be proactive in helping others and speak up to avoid harm in the case that any of these unwelcome behaviors are observed. 
+
+[^1]: As defined in the Society for Political Methodology Code of Conduct, harassment includes but is not limited to “degrading verbal comments, discriminatory jokes and language, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.”
+
+In selecting a __Zoom background__, it is expected that everyone adheres to the above Code of Conduct and refrains from material that is discriminatory or degrading to others. 
+
+In the Zoom environment, __your screen name must be the name that is listed on the course roster__, unless otherwise noted. If you do not go by the name on the roster, please contact Dr. Hollenbach in the first week of class. 
+
 
 ### ABSENCES & LATE POLICY:
 Except in the case of observance of a religious holiday, to be excused, the student must
@@ -143,53 +178,42 @@ and participation in group activities sponsored by the University,
 etc. See [http://student-rules.tamu.edu/rule07](http://student-rules.tamu.edu/rule07) for additional
 information. 
 
-All assignments are due on their due date at the beginning of class. Unexcused late work will be penalized by a 7.5 percentage point deduction for each 24hrs your work is late. For example, if you hand in the assignment on the same day it is due, but after class, your maximum score will be 92.5%. If you hand in your assignment more than 24hrs late, e.g., 1:45 pm the next day, your maximum score will be 85%, after 48hrs it would be 77.5%, and so on. Late work will be excused only in the case of university-excused absences. Only under extreme circumstance will I make exceptions to these rules. 
+All assignments are due on their due date at the beginning of class. Unexcused late work will be penalized by a 7.5 percentage point deduction for each 24hrs your work is late. For example, if you hand in the assignment on the same day it is due, but after class, your maximum score will be 92.5%. If you hand in your assignment more than 24hrs late, e.g., 1:45 pm the next day, your maximum score will be 85%, after 48hrs it would be 77.5%, and so on. Late work will be excused only in the case of university-excused absences. Only under extreme circumstance will I make exceptions to these rules. __Again, if something comes up that keeps you from performing your best in this class, please talk to me early on.__
+
+__In the fall of 2020, students may use the Explanatory Statement for Absence from Class formin lieu of a medical confirmation. Students must submit the Explanatory Statement for Absence from Class within three business days after the last date of absence.__
 
 ### RE-GRADING POLICY:
 Students that want to appeal a grade received on an exam or assignment must submit a regrading request in written form (e.g., email). This request has to be turned in within five working days after the graded exams or assignments are returned to the class. The written statement must explain exactly why the student believes the current grade is incorrect. I will then regrade the entire assignment extra carefully. NOTE, as a consequence your grade may go up or down.
 
 ### COMMUNICATION:
-The best place to ask questions is in the classroom. If your question
-is not related to class material or relevant to other students, we can
-discuss it after class. I encourage you to visit my office hours to
-discuss any difficulties with the readings or class. 
+The best place to ask questions is in the zoom classroom. Most questions that arise are things that are also pertinent to other students, please ask it in class. If your question is not related to class material or relevant to other students, we can discuss it after class. I encourage you to visit my office hours to discuss any difficulties with the readings or class. 
 
-You can generally expect me to reply to emails within 24 hours during the work
-week. 
+You can generally expect me to reply to emails within 24 hours during the work week. 
 
 ### DISABILITY:
-All discussions will remain confidential. University policy is in
-accordance with the Americans with Disabilities Act Policy
-Statement. The Americans with Disabilities Act (ADA) is a federal
-anti-discrimination statute that provides comprehensive civil rights
-protection for persons with disabilities. Among other things, this
-legislation requires that all students with disabilities be guaranteed
-a learning environment that provides for reasonable accommodation of
-their disabilities. If you believe you have a disability requiring an
-accommodation, please contact Disability Services, currently located
-in the Disability Services building at the Student Services at White
-Creek complex on west campus or call 979-845-1637. For additional
-information, visit [http://disability.tamu.edu](http://disability.tamu.edu).
+Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please contact Disability Resources in the Student Services Building or at (979) 845-1637 or visit [http://disability.tamu.edu](http://disability.tamu.edu). Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soon as possible.
+
 
 Reasonable accommodations will be made for all students with
 disabilities, but it is the student’s responsibility to inform the
 instructor early in the term. Do not wait until just before an exam to
 decide you want to inform the instructor of a learning disability; any
 accommodations for disabilities must be arranged well in advance.
+ 
+### Title IX and Statement on Limits to Confidentiality
 
-### DIVERSITY POLICY:
-The Department of Political Science supports the Texas A&M University
-commitment to diversity, and welcomes individuals from any racial,
-ethnic, religious, age, gender, sexual orientation, class, disability,
-and nationality. (See [http://diversity.tamu.edu/](http://diversity.tamu.edu/). In the spirit of
-this vital commitment, in this course each voice in the classroom has
-something of value to contribute to all discussions.
+Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws prohibit gender-based discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.
 
-Everyone is expected to respect the different experiences, beliefs and
-values expressed by fellow students and the instructor, and will
-engage in reasoned discussion that refrains from derogatory comments
-about other people, cultures, groups, or viewpoints.
+With the exception of some medical and mental health providers, all university employees (including full and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see [University Rule 08.01.01.M1](https://rules-saps.tamu.edu/PDFs/08.01.01.M1.pdf)):
 
+•	The incident is reasonably believed to be discrimination or harassment. 
+•	The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University. 
+
+Mandatory Reporters must file a report regardless of how the information comes to their attention – including but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most instances, you will be able to control how the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources you need.
+
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with [Counseling and Psychological Services (CAPS)](https://caps.tamu.edu/). 
+
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s [Title IX webpage](https://titleix.tamu.edu/).
 
 ### Changes to Syllabus
 __I reserve the right to update/modify/clarify the syllabus with advance
@@ -198,7 +222,7 @@ notification.__
 
 ## Class Schedule
 
-## Week 1 (01/14)
+## Week 1 (08/25)
 - Introduction, Syllabus, Logistics
 
 __Is the science of comparative politics possible?__
@@ -210,10 +234,9 @@ Readings:
   - Przeworski, Adam (2007): "__Is the Science of Comparative Politics Possible?__" Boix, Carles and Susan C. Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press: 147-171. (On Google Team Drive)
   - Hall, Peter A. (2003): "__Aligning Ontology and Methodology in Comparative Research.__" In: Mahoney, James and Dietrich Rueschemeyer (eds.): Comparative Historical Analysis in the Social Sciences. Cambridge: Cambridge University Press: 373-404. (On Google Team Drive)
 
-## (1/21): No Class; MLK day
 
 
-## Week 2 (01/28): Concepts & Measurement
+## Week 2 (09/01): Concepts & Measurement
 
 Readings:
 
@@ -229,7 +252,7 @@ Additional Readings:
 
   - Goertz, Gary. 2006. "__Social Science Concepts: A User’s Guide.__" Princeton: Princeton University Press. 
 
-## Week 3 (02/04): Models and Theory
+## Week 3 (09/08): Models and Theory
 
 Readings:
     
@@ -246,7 +269,7 @@ Reviews:
   1. Niels
   2. Joo Won 
   
-## Week 4 (02/11): Case Selection 
+## Week 4 (09/15): Case Selection 
 
 Readings: 
   
@@ -264,7 +287,7 @@ Reviews:
   2. Emily
 
   
-## Week 5 (02/18): Case Studies & Analytical Narratives (virtual visit by David Skarbek)
+## Week 5 (09/22): Case Studies & Analytical Narratives (virtual visit by David Skarbek)
 
 Presentation: Niels, Swarup
 
@@ -295,7 +318,7 @@ Reviews:
   3. Andrea
   4. John
   
-## Week 6 (02/25): Concepts of Causal Inference
+## Week 6 (09/29): Concepts of Causal Inference
 
 Readings:
 
@@ -313,7 +336,7 @@ Reviews:
   1. Jongwoo
   2. Ali
   
-## Week 7 (03/04):  Discovering Natural Experiments & Diff-in-Diffs 
+## Week 7 (10/06):  Discovering Natural Experiments & Diff-in-Diffs 
 
 Presentation: Rena, Christy
 
@@ -337,9 +360,8 @@ Reviews:
   1. Swarup
   2. Emily
   
-## (03/11) No Class; Spring Break
 
-## Week 8 (03/18) Text as Data (visit by Molly Roberts)
+## Week 8 (10/13) Text as Data (visit by Molly Roberts)
 
 Presentation: Jongwoo & John
 
@@ -370,7 +392,7 @@ Reviews:
   1. Andrea
   2. Nasim
   
-## Week 9 (03/25)  Regression Discontinuity (virtual visit by Pablo Querubin)
+## Week 9 (10/20)  Regression Discontinuity (virtual visit by Pablo Querubin)
 
 Presentation: Joo Won & Andrea
 
@@ -399,7 +421,7 @@ Additional readings:
   1. Ali
   2. Maxwell
   
-## Week 10 (04/01) Instrumental Variables 
+## Week 10 (10/27) Instrumental Variables 
 
 Presentation: Emily & Ali
 
@@ -425,7 +447,7 @@ Additional readings:
   1. Lauren
   2. Nasim
      
-## Week 11 (04/08) Experiments  (visit by Jessica Gottlieb)
+## Week 11 (11/03) Experiments  (visit by Jessica Gottlieb)
 
 Presentation: Maxwell
 
@@ -451,7 +473,7 @@ Reviews:
   1. Swarup
   2. Christy
   
-## Week 12 (04/15) Surveys & Survey Experiments (virtual visit by Jason Lyall)
+## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by Jason Lyall)
 
 Presentation: Lauren & Nasim
 
@@ -477,7 +499,7 @@ Reviews:
   3. Maxwell
   4. John
   
-## Week 13 (04/22) Combining Quantitative and Qualitative Evidence
+## Week 13 (11/17) Combining Quantitative and Qualitative Evidence
 
 
 Readings: 
@@ -491,7 +513,7 @@ Applications  __(pick one)__:
   - Nichter, Simeon and Peress, Michael. 2017. "__Request Fulfilling: When Citizens Demand Clientelist Benefits.__" Comparative Political Studies. 50(8): 1086–1117. 
   - Lyall, Jason and Wilson III, Isaiah. 2009. "__Rage Against the Machines: Explaining Outcomes in Counterinsurgency Wars.__" International Organization. 63(1): 67--106.
    
-## Week 14 (04/29) Research Design Presentations
+## Week 14 (11/24) Research Design Presentations
 
-## Week 15 (05/06)
+## Week 15 (12/02)
 __Final Research Design & NSF Proposal Project Description due__
