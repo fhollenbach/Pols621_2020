@@ -283,7 +283,7 @@ Additional Readings:
 Reviews:
 
   
-## Week 5 (09/22): Case Studies & Analytical Narratives (virtual visit by David Skarbek)
+## Week 5 (09/22): Case Studies, Analytical Narratives, and Process Tracing
 
 Presentation:
 
@@ -322,7 +322,7 @@ Additional readings:
 
 Reviews:
 
-## Week 7 (10/06):  Discovering Natural Experiments & Diff-in-Diffs 
+## Week 7 (10/06):  Discovering Natural Experiments & Diff-in-Diffs (Virtual Visit by [David Broockman](https://polisci.berkeley.edu/people/person/david-broockman))
 
 Presentation: 
 
@@ -336,18 +336,19 @@ Applications __(pick two)__:
 - Broockman...
 
   - Galiani, Sebastian and Ernesto Schargrodsky. 2010. "__Property Rights for the Poor: Effects of Land Titling.__" Journal of Public Economics 94(9):700-729.
-  - Blattman, Christopher and Jeannie Annan, 2010. "__The Consequences of Child Soldiering.__" The Review of Economics and Statistics, MIT Press 92(4): 882-898.
-  - Hainmueller, Jens, and Hangartner, Dominik. 2013. "__Who Gets a Swiss Passport? A Natural Experiment in Immigrant Discrimination.__" American Political Science Review. 107(1):159–187
+ 
     
 Additional Readings: 
 
   - MMSS Chapter 6
-    
+  - Blattman, Christopher and Jeannie Annan, 2010. "__The Consequences of Child Soldiering.__" The Review of Economics and Statistics, MIT Press 92(4): 882-898.
+  - Hainmueller, Jens, and Hangartner, Dominik. 2013. "__Who Gets a Swiss Passport? A Natural Experiment in Immigrant Discrimination.__" American Political Science Review. 107(1):159–187  
+
 Reviews:
   
     
 
-## Week 8 (10/13)  Experiments  
+## Week 8 (10/13)  Experiments   (Virtual Visit by [Pia Raffler](https://piaraffler.com/))
 
 Presentation: 
 
@@ -375,7 +376,7 @@ Reviews:
   2. Christy
   
   
-## Week 9 (10/20)  Regression Discontinuity 
+## Week 9 (10/20)  Regression Discontinuity (Virtual Visit by ) 
 
 Presentation: 
 
@@ -392,17 +393,18 @@ Applications __(pick two)__:
   - Dell, Melissa, and Pablo Querubin. 2018. "__Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies__.” Quarterly Journal of Economics 133(2): 701-764.
   - Brollo, Fernanda and Nannicini, Tommaso. 2012. "__Tying Your Enemy's Hands in Close Races: The Politics of Federal Transfers in Brazil.__" American Political Science Review. 106(4): 742–61. 
   - Szakonyi, David. 2018. "__Businesspeople in Elected Office: Identifying Private Benefits from Firm-Level Returns.__" American Political Science Review. 112(2): 322–338.
-    
+  - Grumbach, Jacob M. and Sahn, Alexander. 2020. "__Race and Representation in Campaign Finance__." American Political Science Review. 114(1): 206-221. doi:10.1017/S0003055419000637
 Additional readings: 
 
   - Cunningham: chapter "Regression discontinuity"
   - Cattaneo, Matias D. and Idrobo, Nichol\`as and Titiunik, Roc\'io. 2018. "__A Practical Introduction to Regression Discontinuity Designs: Volume II__" Cambridge Elements: Quantitative and Computational Methods for Social Science. Cambridge University Press: Cambridge, MA. [http://www-personal.umich.edu/~titiunik/books/CattaneoIdroboTitiunik2018-Cambridge-Vol2.pdf](http://www-personal.umich.edu/~titiunik/books/CattaneoIdroboTitiunik2018-Cambridge-Vol2.pdf)
   - Calonico, Sebastian and Cattaneo, Matias D. and Titiunik, Rocio. 2014. "__Robust nonparametric confidence intervals for regression-discontinuity designs.__ Econometrica. 82(6):2295-2326.
   - Eggers, Andrew C. and Freier, Ronny and Grembi, Veronica and Nannicini, Tommaso. 2018. "__Regression Discontinuity Designs Based on Population Thresholds: Pitfalls and Solutions.__" American Journal of Political Science. 62(1):210-229. 
-
+  - Ornstein, Joseph T. and Duck-Mayr, JBrandon. 2020. "__Gaussian Process Regression Discontinuity.__" Working Paper. [Link](https://joeornstein.github.io/publications/gprd.pdf)
+  - De Magalhães, Leandro and Dominik Hangartner, Salomo Hirvonen, Jaakko Meriläinen, Nelson Ruiz, and Janne Tukiainen. 2020. "__How Much Should We Trust Regression Discontinuity Design Estimates? Evidence from Experimental Benchmarks of the Incumbency Advantage.__" APSA Preprints. [Link](https://preprints.apsanet.org/engage/apsa/article-details/5f1a03d613857400119c3b13).
+  
   Reviews: 
-  1. Ali
-  2. Maxwell
+
   
 ## Week 10 (10/27) Instrumental Variables 
 
@@ -426,11 +428,9 @@ Additional readings:
   - Betz, Timm and Cook, Scott J. and Hollenbach, Florian M. 2019. "__Spatial Interdependence and Instrumental Variable Models.__". Political Science Research and Methods. In Print.
     
  Reviews:
-  
-  1. Lauren
-  2. Nasim
+
      
-## Week 11 (11/03) Big Data & Text as Data
+## Week 11 (11/03) Big Data & Text as Data (Virtual Visit by ) 
 
 Presentation: 
 
@@ -455,7 +455,7 @@ Reviews:
   
   
 
-## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by Jason Lyall)
+## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by )
 
 Presentation: Lauren & Nasim
 
@@ -474,12 +474,7 @@ Applications  __(pick two)__:
 Reviews:
   
   Paper 1:
-  1. Joo Won 
-  2. Jongwoo
-  
-  Paper 2:
-  3. Maxwell
-  4. John
+ 
   
 ## Week 13 (11/17) Combining Quantitative and Qualitative Evidence
 
