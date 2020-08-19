@@ -139,7 +139,7 @@ page at [https://writingcenter.tamu.edu/](https://writingcenter.tamu.edu/), or s
 
 "Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case" [Section 20.1.2.3, Student Rule 20](https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-Rules).
 
-You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at [aggiehonor.tamu.edu](aggiehonor.tamu.edu).
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at [aggiehonor.tamu.edu](https://aggiehonor.tamu.edu).
 
 All students should follow the highest standards of academic integrity. __Cheating or plagiarism will not be tolerated in any way and will have grave consequences for your academic career.__ If you are unsure what entails plagiarism, come talk to me. __Any cases of cheating or plagiarism will be submitted to the academic honor council, no exceptions.__
 
