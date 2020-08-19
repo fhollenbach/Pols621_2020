@@ -233,6 +233,6 @@ Readings:
   - Boix, Carles & Susan C. Stokes. 2009. "__Introduction.__" Boix, Carles and Susan C. Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press (On Google Team Drive)
   - Przeworski, Adam (2007): "__Is the Science of Comparative Politics Possible?__" Boix, Carles and Susan C. Stokes (eds.): Oxford Handbook of Comparative Politics. Oxford: Oxford University Press: 147-171. (On Google Team Drive)
   - Huber, John. 2013. "__Is theory getting lost in the 'identification revolution'?__". Monkey Cage Blog. [Link](https://themonkeycage.org/2013/06/is-theory-getting-lost-in-the-identification-revolution/)
-  - Contributions by Kanchan Chandra, Barbara Geddes, Scott Gehlbach, Gretchen Helmke & G. Bingham Powell Jr., Leonard Wantchekon, Elisabeth Jean Wood in the Comparative Politics Newsletter Fall 2005. [Link](comparativenewsletter.com/files/archived_newsletters/newsletter_fall2015.pdf) 
+  - Contributions by Kanchan Chandra, Barbara Geddes, Scott Gehlbach, Gretchen Helmke & G. Bingham Powell Jr., Leonard Wantchekon, Elisabeth Jean Wood in the Comparative Politics Newsletter Fall 2005. [Link](http://comparativenewsletter.com/files/archived_newsletters/newsletter_fall2015.pdf) 
   - Pepinsky, Tom. 2015. "__The Coherence of Multiple Methods.__" [Link](https://tompepinsky.com/2015/10/23/the-coherence-of-multiple-methods/)
   
