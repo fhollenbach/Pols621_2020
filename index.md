@@ -26,7 +26,7 @@ Tuesday, 1:30pm - 4:20pm
 __Class Location:__ Zoom
 
 ### Class Website:
-The syllabus on my website [http://fhollenbach.github.io/Pols621_2020](http://fhollenbach.github.io/Pols621_2020) will be continuously updated to reflect any schedule changes. Additional material will be posted on the shared Google Team Drive. We may use Canvas occasionally.
+The syllabus on my website [http://fhollenbach.github.io/Pols621_2020](http://fhollenbach.github.io/Pols621_2020) will be continuously updated to reflect any schedule changes. Additional material will be posted on the shared Google Team Drive. We may possibly Google Class.
 
 __All assignments are to be submitted electronically via email to fhollenbach@tamu.edu__
 
@@ -37,7 +37,7 @@ The goal of this course is to familiarize PhD students with the various existing
 At the end of the semester, after completing this course, students are expected to:
 
 - Understand:
-  1. problems of case selection, 
+  1. problems of case selection
   2. the concept of causality
   3. the limits and strengths of observational data 
   4. experimental designs
@@ -48,7 +48,7 @@ At the end of the semester, after completing this course, students are expected 
 
 ### COURSE STRUCTURE & REQUIREMENTS:
 
-The class will meet once a week from 1:30pm to 4:20pm on Tuesdays. For most weeks, you should expect classes to be about one hour of lecturing and 90 minutes of discussion. We will cover a variety of concepts, sometimes complicated. I expect you to have done __all__ of the *required* reading before sending discussion questions. Even when I lecture, I want you to ask questions and participate actively. In the second part of class we will discuss the readings and applications in more of a group setting. We will also try to work through example applications whenever possible. 
+Class will meet once a week from 1:30pm to 4:20pm on Tuesdays. For most weeks, you should expect classes to be about one hour of lecturing and 90 minutes of discussion. We will cover a variety of concepts, sometimes complicated. I expect you to have done __all__ of the *required* reading before sending discussion questions the day before class (see below). Even when I lecture, I want you to ask questions and participate actively. In the second part of class we will discuss the readings and applications in more of a group setting. We will also try to work through example applications whenever possible. 
 
 
 For part of this class we will be working on the computer with statistical software. We will use the statistical programming language __R__. R is available for download [here:](https://cran.revolutionanalytics.com). I would recommend you download R-Studio, which is a software that makes the use of R much easier. You can download R-Studio [here:](https://www.rstudio.com/products/rstudio/download2/). Both R and R-Studio are free.
@@ -60,16 +60,16 @@ It is important that you somewhat familiarize yourself with R in the first few w
 Your grade will be based on the following: 
 
 1. Participation (5%)
-2. Two discussion questions for every class session (10%)
+2. Two discussion questions for class session (weeks 1 - 13) (10%)
 3. One in-class presentation (15%)
 4. Two paper reviews, simulating a review for the APSR/AJPS/JOP (20%)
 5. Motivation of Research Question, i.e., paper Introduction (15%)
-6. Final Project Research Design Presentation (15%)
-7. NSF Dissertation Improvement Grant proposal (20%) 
+6. Final Project Research Design Presentation (10%)
+7. Final Research Design (25%) 
 
 #### Readings
 
-We will be reading both articles and book chapters throughout the semester. Readings under the header Additional Readings are not required, but suggestions for those interested in the particular topic. This is a PhD student level seminar; as such I expect all students to come to class prepared, having read __all required material__ prior to sending discussion questions on Wednesday mornings. I also expect you to complete relevant assignments on time.
+We will be reading both articles and book chapters throughout the semester. Readings under the header Additional Readings are not required, but suggestions for those interested in the particular topic. This is a PhD student level seminar; as such I expect all students to come to class prepared, having read __all required material__ prior to sending discussion questions on Monday. I also expect you to complete relevant assignments on time.
 
 Some of the weeks have substantial amounts of readings that may take significant time to get through. Make sure you start early enough. Additionally, some of the methodological work will be difficult. It is okay if you do not fully understand everything before coming to class, that is what our class meetings are for. Nevertheless, read carefully and try to understand each article/chapter. Take notes on your readings, especially on parts you do not understand.
 
