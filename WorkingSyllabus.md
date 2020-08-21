@@ -106,7 +106,7 @@ When reading applied papers, you should think about questions such as:
   - [Nyhan: A Checklist Manifesto for Peer Review](https://thepoliticalmethodologist.com/2015/12/04/a-checklist-manifesto-for-peer-review/)
 
 #### Introduction/Research Motivation
-- Submit a 1-2 page (double spaced) introduction/motivation for your research project. Effectively this should be written like the introduction to an article submission. The introduction should be about the same topic/question as your research design and optimally you will want this to be about (or related to) a possible dissertation topic. The introduction needs to clearly state the question you want to answer, why the reader should care, what and how your work contributes to the literature, and a preview (one paragraph) of the research design. Please be ambitious when it comes to your research question and a possible research design. I will meet with each of you to provide feedback to you on the introduction during office hours. __This assignment is due on: 10/29/2020__ Two links that might be helpful when writing the introduction:
+- Submit a 1-2 page (double spaced) introduction/motivation for your research project. Effectively this should be written like the introduction to an article submission. The introduction should be about the same topic/question as your research design and optimally you will want this to be about (or related to) a possible dissertation topic. The introduction needs to clearly state the question you want to answer, why the reader should care, what and how your work contributes to the literature, and a preview (one paragraph) of the research design. Please be ambitious when it comes to your research question and a possible research design. I will meet with each of you to provide feedback to you on the introduction during office hours. __This assignment is due on: 10/13/2020__ Two links that might be helpful when writing the introduction:
   - [Keith Head: The Introduction Formula](http://blogs.ubc.ca/khead/research/research-advice/formula)
   - [Andrew Little: Three Templates for Introductions to Political Science
 Articles](http://www.andrewtlittle.com/papers/little_intros.pdf)
@@ -350,6 +350,7 @@ Reviews:
   
  
 ## Week 8 (10/13)  Experiments   (Virtual Visit by [Pia Raffler](https://piaraffler.com/))
+__Submit Introduction/Research Motivation__
 
 Presentation: 
 
@@ -375,7 +376,6 @@ Reviews:
   
   
 ## Week 9 (10/20)  Regression Discontinuity (Virtual Visit by [Jacob Grumbach](https://sites.google.com/view/jakegrumbach)) 
-__Submit Introduction/Research Motivation__
 
 Presentation: 
 
