@@ -337,7 +337,7 @@ Readings:
   - Cantoni, Davide and Noam Yuchtman. 2020. "__Historical Natural Experiments: Bridging Economics and Economic History.__" Prepared for the Handbook of Historical Economics. (Link)[http://www.davidecantoni.net/pdfs/natural_experiments_chapter_20200128.pdf]
  
   
-Applications __(pick two)__:
+Applications:
   - Broockman, David E. and Evan J. Soltas. 2020. "__A natural experiment on discrimination in elections.__" Journal of Public Economics. 188(August 2020).
   - Galiani, Sebastian and Ernesto Schargrodsky. 2010. "__Property Rights for the Poor: Effects of Land Titling.__" Journal of Public Economics 94(9):700-729.
  
@@ -363,7 +363,7 @@ Readings:
  -  https://www.econ.uzh.ch/dam/jcr:33649fc0-473f-49eb-932e-f40a7b5dba99/1091142115614392.pdf
 
 Applications:
-  - Raffler, Pia. 2020. "__Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from an Electoral Autocracy.__" Working Paper. (Link)[http://piaraffler.com/wp-content/uploads/2019/06/Raffler_Political-Oversight_June2019.pdf]
+  - Raffler, Pia. 2020. "__Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from an Electoral Autocracy.__" Working Paper. [Link](http://piaraffler.com/wp-content/uploads/2019/06/Raffler_Political-Oversight_June2019.pdf)
 
 
 Additional Readings: 
