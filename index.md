@@ -238,3 +238,251 @@ Readings:
   - Contributions by Kanchan Chandra, Barbara Geddes, Scott Gehlbach, Gretchen Helmke & G. Bingham Powell Jr., Leonard Wantchekon, Elisabeth Jean Wood in the Comparative Politics Newsletter Fall 2005. [Link](http://comparativenewsletter.com/files/archived_newsletters/newsletter_fall2015.pdf) 
   - Pepinsky, Tom. 2015. "__The Coherence of Multiple Methods.__" [Link](https://tompepinsky.com/2015/10/23/the-coherence-of-multiple-methods/)
   
+
+## Week 2 (09/01): Models and Theory
+
+Readings:
+    
+  - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapter 2__ (available electronically through library)
+  - Gerring, John. 2011. "__Social Science Methodology : A Unified Framework.__" Cambridge University Press: Cambridge, MA. __Chapter 3__ (available electronically through library)
+  - Clarke, Kevin A., and David M. Primo. 2007. "__Modernizing Political Science: A Model- Based Approach.__" Perspectives on Politics. 5(4): 741-753.
+  - Little, Andrew T. and Tom B. Pepinsky. 2016. "__Simple and Formal Models in Comparative Politics.__" Chinese Political Science Review. 1: 425–447.
+  
+Applications:
+
+  - Svolik, Milan. 2013. "__Learning to Love Democracy: Electoral Accountability, Government Performance, and the Consolidation of Democracy.__" American Journal of Political Science. 57(3): 685-702. 
+  
+## Week 3 (09/08): Concepts & Measurement
+
+Readings:
+
+  - Gerring, John. 2011. "__Social Science Methodology : A Unified Framework.__" Cambridge University Press: Cambridge, MA. __Chapter 5-7__ (available electronically through library)
+  - KKV Chapters 1 & 2
+  
+Applications:
+
+  - Treier, Shawn and Jackman, Simon. 2008. "__Democracy as a Latent Variable.__" American Journal of Political Science. 52(1):201-217
+
+Additional Readings:
+
+  - Goertz, Gary. 2006. "__Social Science Concepts: A User’s Guide.__" Princeton: Princeton University Press. 
+  - Sartori, Giovanni. 1970. "__Concept Misinformation in Comparative Politics.__" American Political Science Review 64(4): 1033-1053.
+  - Collier, David, and James E. Mahon. 1993. "__Conceptual Stretching Revisited: Adapting Categories in Comparative Analysis.__" American Political Science Review 87(4): 845-855.
+  
+ 
+## Week 4 (09/15): Case Selection 
+
+Readings: 
+  
+  - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapters 3 & 4__ (available electronically through library)
+  - MMSS Chapter 4
+  - KKV Chapter 4
+
+Additional Readings:
+
+  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. __Chapter 4__
+
+Reviews:
+
+  
+## Week 5 (09/22): Case Studies, Analytical Narratives, and Process Tracing (Virtual Visit by [Alisha Holland](http://alishaholland.com/))
+
+Presentation:
+
+Readings: 
+
+  - Dunning, Thad. "__Improving Process Tracing: The Case of Multi-Method Research.__" In: Process Tracing: From Metaphor to Analytic Tool. Edited by Bennet, Andrew and Jeffrey T. Checkel. Chpt. 8. (Link)[http://www.thaddunning.com/wp-content/uploads/2015/10/Dunning_Process-Tracing-ch-8_final-before-proofs.pdf]
+  - MMSS: Chapter 3
+  - Levi, Margaret and Weingast, Barry R. 2017. "__Analytic Narratives, Case Studies, and Development.__" Working Paper. Available at SSRN: [https://ssrn.com/abstract=2835704](https://ssrn.com/abstract=2835704) (on Google Team Drive)
+  - KKV section 6.1 (pages 208-213) 
+
+Applications __(pick one)__:
+
+  - Holland, Alisha C. 2016. "__Forbearance.__" American Political Science Review. 110(2): 232-246.
+  - Weyland, Kurt. 2016. "__Crafting Counterrevolution: How Reactionaries Learned to Combat Change in 1848.__" American Political Science Review. 110(2): 215–31.
+
+Additional Readings: 
+
+  - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA.
+  - Skarbek, David. 2016. "__Covenants without the Sword? Comparing Prison Self-Governance Globally.__" American Political Science Review. 110(4): 845–62.
+  - Skarbek, David. 2011. "__Governance and Prison Gangs.__" American Political Science Review. 105(4): 702–16. 
+  
+Reviews:
+  
+  
+## Week 6 (09/29): Concepts of Causal Inference
+
+Readings:
+
+  - Imbens, Guido and Rubin, Donald D. 2015. "__Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction.__" Cambridge University Press: Cambridge, MA. Chapters 1 & 2: pages 3--30 (On Google Team Drive)
+  - Rubin, Donald 2005. "__Causal Inference Using Potential Outcomes.__" Journal of the American Statistical Association. 100(469):322–331.  
+  - Pearl, Judea and Glymour, Madelyn and Jewell, Nicholas P. 2016. "__Causal Inference in Statistics : A Primer.__" John Wiley & Sons: West Sussex, UK. __Skim Chapter 1 as necessary, Read Chapter 2__ (available electronically through library)
+
+Additional readings: 
+
+  - KKV: Chapter 3
+  - Cunningham: Chapters "Directed acyclical graphs" & "Potential outcomes causal model"
+  - Pearl, Judea and Dana Mackenzie. 2018. "__The Book of Why: The New Science of Cause and Effect.__" Basic Books.
+  
+Reviews:
+
+## Week 7 (10/06):  Discovering Natural Experiments (Virtual Visit by [David Broockman](https://polisci.berkeley.edu/people/person/david-broockman))
+
+Presentation: 
+
+Readings: 
+
+  - Dunning: Chapters 1 & 2
+  - Sekhon, Jasjeet S. and Titiunik, Rocio. 2012. "__When Natural Experiments Are Neither Natural nor Experiments.__" American Political Science Review. 106(1):35–57.
+  - Cantoni, Davide and Noam Yuchtman. 2020. "__Historical Natural Experiments: Bridging Economics and Economic History.__" Prepared for the Handbook of Historical Economics. (Link)[http://www.davidecantoni.net/pdfs/natural_experiments_chapter_20200128.pdf]
+ 
+  
+Applications __(pick two)__:
+  - Broockman, David E. and Evan J. Soltas. 2020. "__A natural experiment on discrimination in elections.__" Journal of Public Economics. 188(August 2020).
+  - Galiani, Sebastian and Ernesto Schargrodsky. 2010. "__Property Rights for the Poor: Effects of Land Titling.__" Journal of Public Economics 94(9):700-729.
+ 
+Additional Readings: 
+
+  - MMSS Chapter 6
+  - Blattman, Christopher and Jeannie Annan, 2010. "__The Consequences of Child Soldiering.__" The Review of Economics and Statistics, MIT Press 92(4): 882-898.
+  - Hainmueller, Jens, and Hangartner, Dominik. 2013. "__Who Gets a Swiss Passport? A Natural Experiment in Immigrant Discrimination.__" American Political Science Review. 107(1):159–187.
+
+Reviews:
+  
+ 
+## Week 8 (10/13)  Experiments   (Virtual Visit by [Pia Raffler](https://piaraffler.com/))
+__Submit Introduction/Research Motivation__
+
+Presentation: 
+
+Readings:
+  
+  - MM: Chapter 1
+  - Gerber, Alan S. and Donald P. Green. 2012. "__Field Experiments: Design, Analysis, and Interpretation.__" Chapter 1. (On Google Drive)
+  - Duflo, Esther, Rachel Glennerster and Michael Kremer. 2007. "__Using Randomization in Development Economics Research: A Toolkit.__" [http://economics.mit.edu/files/806](http://economics.mit.edu/files/806)  __Chapters 4 & 5__
+ -  https://www.econ.uzh.ch/dam/jcr:33649fc0-473f-49eb-932e-f40a7b5dba99/1091142115614392.pdf
+
+Applications:
+  - Raffler, Pia. 2020. "__Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from an Electoral Autocracy.__" Working Paper. (Link)[http://piaraffler.com/wp-content/uploads/2019/06/Raffler_Political-Oversight_June2019.pdf]
+
+
+Additional Readings: 
+  - Habyarimana, Humphreys, Posner, and Weinstein. 2006. "__Why Does Ethnic Diversity Undermine Public Goods Provision? An Experimental Approach.__" American Political Science Review. 109(4): 709-726.
+  - Paler, Laura. 2013. "__Keeping the Public Purse: An Experiment in Windfalls, Taxes, and the Incentives to Restrain Government.__" American Political Science Review 104(7): 706-725.
+  - Grossman, Guy, and Michelitch, Kristin. 2018. "__Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda.__" American Political Science Review. 112(2): 280–301.
+  - Gottlieb, Jessica. 2016. "__Greater Expectations? A Field Experiment to Improve Accountability in Mali.__" American Journal of Political Science. 60(1): 143-157.
+  - MMSS Chapter 7
+
+Reviews:
+  
+  
+## Week 9 (10/20)  Regression Discontinuity (Virtual Visit by [Jacob Grumbach](https://sites.google.com/view/jakegrumbach)) 
+
+Presentation: 
+
+Readings:
+
+  - Dunning: Chapter 3 & section 5.2
+  - MM: chapter 4
+  - De Magalhães, Leandro and Dominik Hangartner, Salomo Hirvonen, Jaakko Meriläinen, Nelson Ruiz, and Janne Tukiainen. 2020. "__How Much Should We Trust Regression Discontinuity Design Estimates? Evidence from Experimental Benchmarks of the Incumbency Advantage.__" APSA Preprints. [Link](https://preprints.apsanet.org/engage/apsa/article-details/5f1a03d613857400119c3b13).
+
+Applications __(pick one)__:
+
+  - Dell, Melissa. 2010. "__The Persistent Effects of Peru's Mining Mita.__" Econometrica 78(6): 1863-1903.
+  - Grumbach, Jacob M. and Sahn, Alexander. 2020. "__Race and Representation in Campaign Finance__." American Political Science Review. 114(1): 206-221.
+  
+Additional readings: 
+
+  - Dell, Melissa, and Pablo Querubin. 2018. "__Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies__.” Quarterly Journal of Economics 133(2): 701-764.
+  - Brollo, Fernanda and Nannicini, Tommaso. 2012. "__Tying Your Enemy's Hands in Close Races: The Politics of Federal Transfers in Brazil.__" American Political Science Review. 106(4): 742–61. 
+  - Szakonyi, David. 2018. "__Businesspeople in Elected Office: Identifying Private Benefits from Firm-Level Returns.__" American Political Science Review. 112(2): 322–338.
+  - Cunningham: chapter "Regression discontinuity"
+  - Cattaneo, Matias D. and Idrobo, Nichol\`as and Titiunik, Roc\'io. 2018. "__A Practical Introduction to Regression Discontinuity Designs: Volume II__" Cambridge Elements: Quantitative and Computational Methods for Social Science. Cambridge University Press: Cambridge, MA. [http://www-personal.umich.edu/~titiunik/books/CattaneoIdroboTitiunik2018-Cambridge-Vol2.pdf](http://www-personal.umich.edu/~titiunik/books/CattaneoIdroboTitiunik2018-Cambridge-Vol2.pdf)
+  - Calonico, Sebastian and Cattaneo, Matias D. and Titiunik, Rocio. 2014. "__Robust nonparametric confidence intervals for regression-discontinuity designs.__ Econometrica. 82(6):2295-2326.
+  - Eggers, Andrew C. and Freier, Ronny and Grembi, Veronica and Nannicini, Tommaso. 2018. "__Regression Discontinuity Designs Based on Population Thresholds: Pitfalls and Solutions.__" American Journal of Political Science. 62(1):210-229. 
+  - Ornstein, Joseph T. and Duck-Mayr, JBrandon. 2020. "__Gaussian Process Regression Discontinuity.__" Working Paper. [Link](https://joeornstein.github.io/publications/gprd.pdf)
+  - De Magalhães, Leandro and Dominik Hangartner, Salomo Hirvonen, Jaakko Meriläinen, Nelson Ruiz, and Janne Tukiainen. 2020. "__How Much Should We Trust Regression Discontinuity Design Estimates? Evidence from Experimental Benchmarks of the Incumbency Advantage.__" APSA Preprints. [Link](https://preprints.apsanet.org/engage/apsa/article-details/5f1a03d613857400119c3b13).
+  
+  Reviews: 
+
+  
+## Week 10 (10/27) Instrumental Variables 
+
+Presentation: 
+
+Readings:
+
+  - Dunning: chapter 4 & section 5.3
+  - MM: chapter 3
+  
+Applications:
+    
+  - Acharya, Avidit and Blackwell, Matthew and Sen, Maya. 2016. "__The Political Legacy of American Slavery.__" The Journal of Politics.  78(3): 621-641.
+  - Dittmar, Jeremiah E and Ralf R Meisenzahl. 2020. "__Public Goods Institutions, Human Capital, and Growth: Evidence from German History.__" The Review of Economic Studies. 87(2): 959–996. 
+  
+Additional readings: 
+  
+  - Cunningham: chapter "Instrumental variables"
+  - Sovey, Allison and Donald P. Green. 2011. "__Instrumental Variables Estimation in Political Science: A Readers’ Guide.__" American Journal of Political Science, 55(1):188-200.
+  - Betz, Timm and Cook, Scott J. and Hollenbach, Florian M. 2019. "__Spatial Interdependence and Instrumental Variable Models.__". Political Science Research and Methods. In Print.
+  
+Reviews:
+
+     
+## Week 11 (TBA) Big Data & Machine Learning (Virtual Visit by [Michelle Torres](http://smtorres.org/))
+
+Presentation: 
+
+Readings: 
+  - Egami, Naoki and Christian Fong and Margaret E. Roberts and Brandon M. Steward. 2020. "__How to Make Causal Inferences Using Texts.__" Working Paper. [Link](https://www.dropbox.com/s/b1n1r2qpyn3m77c/ais_final.pdf?dl=0)
+  - Torres, Michelle and Francisco Cantú. 2020. "__Learning to See: Convolutional Neural Networks for the Analysis of Social Science Data.__" Working Paper. 
+  - Grimmer, Justin. 2015. "__We Are All Social Scientists Now: How Big Data, Machine Learning, and Causal Inference Work Together__" PS: Political Science & Politics. 48(1):80-83.
+  - Avenancio-León, Carlos and Troup Howard. 2020. "__The Assessment Gap: Racial Inequalities in Property Taxation.__". Working Paper. [Link](https://www.dropbox.com/s/d66yj47ze9h0mg1/Troup%20Howard%20JMP%2C%20Current.pdf?dl=1)
+  
+Reviews:
+  
+  
+
+## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by [Alicia Cooperman](https://www.aliciacooperman.com/))
+
+Presentation: 
+
+Readings: 
+
+  - Fowler, Floyd J. 2009. "__Applied Social Research Methods: Survey research methods (4th ed.).__" SAGE Publications:  Thousand Oaks, CA. __Chapters 1 - 3__ (available electronically through library)
+  - Hainmueller, Jens and  Hangartner, Dominik and Yamamoto, Teppei. 2015. "__Do survey experiments capture real-world behavior?__" Proceedings of the National Academy of Sciences. [https://www.pnas.org/content/early/2015/01/28/1416587112.short](https://www.pnas.org/content/early/2015/01/28/1416587112.short)
+  
+  
+Applications:
+
+  - Cooperman, Alicia. 2020. "__Trading Favors: Local Politics and Development in Brazil.__" Working Paper. (On Google Drive)
+  - Blair, Graeme, Kosuke Imai, and Jason Lyall. 2014. "__Comparing and Combining List and Endorsement Experiments: Evidence from Afghanistan.__" American Journal of Political Science. 58(4):1043-1063.
+
+Additional Readings: 
+  
+  - Abramson, Scott and Korhan Koçak and Asya Magazinnik. 2020. "__What Do We Learn About Voter Preferences From Conjoint Experiments?__" Working Paper. (Link)[https://nebula.wsimg.com/27122d2317f89a3e8c99b58f415adc63?AccessKeyId=2530DBBF8DA3DC4C7F79&disposition=0&alloworigin=1]
+  - Ahlquist, John. 2018. "__List Experiment Design, Non-Strategic Respondent Error, and Item Count Technique Estimators.__" Political Analysis. 26(1):34-53.
+  - Malesky, Eddy J. and Gueorguiev, Dimitar D. and Jensen, Nathan M. 2015. "__Monopoly Money: Foreign Investment and Bribery in Vietnam, a Survey Experiment.__" American Journal of Political Science. 59(2):419-439. 
+  - Lyall, Jason and Blair, Graeme and Imai, Kosuke. 2013. "__Explaining Support for Combatants during Wartime: A Survey Experiment in Afghanistan.__" American Political Science Review. 107(4):679–705. 
+  - Frye, Timothy. 2006. "__Original Sin, Good Works, and Property Rights in Russia: Evidence from a Survey Experiment.__" World Politics 58(4):479-504.
+
+Reviews:
+  
+  
+## Week 13 (11/17) Combining Quantitative and Qualitative Evidence 
+
+
+Readings: 
+    
+  - Humphreys, Macarten, and Alan M. Jacobs. 2015. "__Mixing Methods: A Bayesian Approach.__" American Political Science Review. 109(4): 653-673.
+  - MMSS Chapter 8
+  - Lieberman, Evan I. 2005. "__Nested Analysis as a Mixed-Method Strategy for Comparative Research.__" American Political Science Review. 99(3): 435-452.
+    
+Applications:
+
+- TBA
+
+## Week 14 (11/24) Research Design Presentations
+
+## Week 15 (12/06)
+__Final Research Design Description due at 6 pm CET on December 6th__
