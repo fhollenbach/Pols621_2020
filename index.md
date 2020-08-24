@@ -480,7 +480,16 @@ Readings:
     
 Applications:
 
-- TBA
+ - Thachil, Tariq. 2017. "__Do Rural Migrants Divide Ethnically in the City? Evidence from an Ethnographic Experiment in India.__" American Journal of Political Science. 61(4):908-926. 
+ - Lu, Yingdan and Jennifer Pan. 2020. "__Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visibility.__" Political Communication, DOI: 10.1080/10584609.2020.1765914 
+
+Additional Readings: 
+ - Cox, Gary W. and  Jon H. Fiva and Daniel M. Smith. 2019. "__Parties, Legislators, and the Origins of Proportional Representation.__" Comparative Political Studies, 52(1), 102–133.
+ - Lyall, Jason and Wilson III, Isaiah. 2009. "__Rage Against the Machines: Explaining Outcomes in Counterinsurgency Wars.__" International Organization. 63(1): 67--106.
+ - Nichter, Simeon and Peress, Michael. 2017. "__Request Fulfilling: When Citizens Demand Clientelist Benefits.__" Comparative Political Studies. 50(8): 1086–1117. 
+ - Paglayan, Agustina S. 2020. "__The Non-Democratic Roots of Mass Education: Evidence from 200 Years.__" American Political Science Review. Forthcoming.
+ - Street, Alex. 2014. "__My Child Will Be a Citizen: Intergenerational Motives for Naturalization.__" World Politics. 66(2): 264-292. doi:10.1017/S0043887114000033
+   
 
 ## Week 14 (11/24) Research Design Presentations
 
