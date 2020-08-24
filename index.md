@@ -92,7 +92,7 @@ When reading applied papers, you should think about questions such as:
 - Writing: Which sections of the paper are well/poorly written? Why? Are there parts that are particularly exciting/convincing? If so, for what reason? Does the introduction make you want to continue reading the work? What do you think about the overall structure of the work? Pay particular attention to the abstract and introduction.
 
 #### Discussion Points:
-- To facilitate discussion, please send two discussion questions/points about the readings/class topic at __noon on Monday (the day before our class meeting). These could be questions about things you do not understand or criticisms/suggestions about the readings. I will post the collection of your discussion points to the Google Team Drive by 5:00 pm on Mondays. Please try review them briefly before class.
+- To facilitate discussion, please send two discussion questions/points about the readings/class topic at __noon on Monday__ (i.e., day before our class meeting). These could be questions about things you do not understand or criticisms/suggestions about the readings. I will post the collection of your discussion points to the Google Team Drive by 5:00 pm on Mondays. Please try review them briefly before class.
 
 #### Presentation
 - Each of you will prepare one presentation about an applied paper for one of the class sessions. Your presentation should be a discussion of the paper and discuss potential short comings or improvements. You should be critical but constructive. Focus especially on the research design and analysis. If possible, we may try to establish a video conference with the author(s). 
@@ -183,7 +183,7 @@ information.
 
 All assignments are due on their due date at the beginning of class. Unexcused late work will be penalized by a 7.5 percentage point deduction for each 24hrs your work is late. For example, if you hand in the assignment on the same day it is due, but after class, your maximum score will be 92.5%. If you hand in your assignment more than 24hrs late, e.g., 1:45 pm the next day, your maximum score will be 85%, after 48hrs it would be 77.5%, and so on. Late work will be excused only in the case of university-excused absences. Only under extreme circumstance will I make exceptions to these rules. __Again, if something comes up that keeps you from performing your best in this class, please talk to me early on.__
 
-__In the fall of 2020, students may use the Explanatory Statement for Absence from Class formin lieu of a medical confirmation. Students must submit the Explanatory Statement for Absence from Class within three business days after the last date of absence.__
+In the fall of 2020, students may use the Explanatory Statement for Absence from Class formin lieu of a medical confirmation. Students must submit the Explanatory Statement for Absence from Class within three business days after the last date of absence.
 
 ### RE-GRADING POLICY:
 Students that want to appeal a grade received on an exam or assignment must submit a regrading request in written form (e.g., email). This request has to be turned in within five working days after the graded exams or assignments are returned to the class. The written statement must explain exactly why the student believes the current grade is incorrect. I will then regrade the entire assignment extra carefully. NOTE, as a consequence your grade may go up or down.
@@ -251,6 +251,9 @@ Readings:
 Applications:
 
   - Svolik, Milan. 2013. "__Learning to Love Democracy: Electoral Accountability, Government Performance, and the Consolidation of Democracy.__" American Journal of Political Science. 57(3): 685-702. 
+  
+Additional Readings: 
+  - Ward, Michael D. 2017. "__Do We Have Too Much Theory in International Relations or Do We Need Less? Waltz Was Wrong, Tetlock Was Right.__" Oxford Research Encyclopedia of Politics. 
   
 ## Week 3 (09/08): Concepts & Measurement
 
