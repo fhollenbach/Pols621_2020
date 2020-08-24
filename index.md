@@ -277,7 +277,8 @@ Readings:
   - Geddes, Barbara. 2003."__Paradigms and Sand Castles: Theory Building and Research Design in Comparative Politics.__"  University of Michigan Press: Ann Arbor __Chapters 3 & 4__ (available electronically through library)
   - MMSS Chapter 4
   - KKV Chapter 4
-
+  - Aronow, Peter M. and Cyrus Samii. 2016. "__Does Regression Produce Representative Estimates of Causal Effects?__" American Journal of Political Science. 60(1):250-267.
+  
 Additional Readings:
 
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. __Chapter 4__
@@ -408,8 +409,6 @@ Additional readings:
   
 ## Week 10 (10/27) Instrumental Variables 
 
-Presentation: 
-
 Readings:
 
   - Dunning: chapter 4 & section 5.3
@@ -429,7 +428,7 @@ Additional readings:
 Reviews:
 
      
-## Week 11 (TBA) Big Data & Machine Learning (Virtual Visit by [Michelle Torres](http://smtorres.org/))
+## Week 11 (MONDAY 11/02) Big Data & Machine Learning (Virtual Visit by [Michelle Torres](http://smtorres.org/))
 
 Presentation: 
 
