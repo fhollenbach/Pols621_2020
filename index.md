@@ -471,7 +471,7 @@ Additional Readings:
 Reviews:
   
   
-## Week 13 (11/17) Combining Quantitative and Qualitative Evidence 
+## Week 13 (11/17) Combining Quantitative and Qualitative Evidence (virtual visit by [Tariq Thachil](http://www.tariqthachil.com/))
 
 
 Readings: 
