@@ -295,7 +295,7 @@ Presentation:
 
 Readings: 
 
-  - Dunning, Thad. "__Improving Process Tracing: The Case of Multi-Method Research.__" In: Process Tracing: From Metaphor to Analytic Tool. Edited by Bennet, Andrew and Jeffrey T. Checkel. Chpt. 8. (Link)[http://www.thaddunning.com/wp-content/uploads/2015/10/Dunning_Process-Tracing-ch-8_final-before-proofs.pdf]
+  - Dunning, Thad. "__Improving Process Tracing: The Case of Multi-Method Research.__" In: Process Tracing: From Metaphor to Analytic Tool. Edited by Bennet, Andrew and Jeffrey T. Checkel. Chpt. 8. [Link](http://www.thaddunning.com/wp-content/uploads/2015/10/Dunning_Process-Tracing-ch-8_final-before-proofs.pdf)
   - MMSS: Chapter 3
   - Levi, Margaret and Weingast, Barry R. 2017. "__Analytic Narratives, Case Studies, and Development.__" Working Paper. Available at SSRN: [https://ssrn.com/abstract=2835704](https://ssrn.com/abstract=2835704) (on Google Team Drive)
   - KKV section 6.1 (pages 208-213) 
@@ -338,7 +338,7 @@ Readings:
 
   - Dunning: Chapters 1 & 2
   - Sekhon, Jasjeet S. and Titiunik, Rocio. 2012. "__When Natural Experiments Are Neither Natural nor Experiments.__" American Political Science Review. 106(1):35–57.
-  - Cantoni, Davide and Noam Yuchtman. 2020. "__Historical Natural Experiments: Bridging Economics and Economic History.__" Prepared for the Handbook of Historical Economics. (Link)[http://www.davidecantoni.net/pdfs/natural_experiments_chapter_20200128.pdf]
+  - Cantoni, Davide and Noam Yuchtman. 2020. "__Historical Natural Experiments: Bridging Economics and Economic History.__" Prepared for the Handbook of Historical Economics. [Link](http://www.davidecantoni.net/pdfs/natural_experiments_chapter_20200128.pdf)
  
   
 Applications:
@@ -364,7 +364,6 @@ Readings:
   - MM: Chapter 1
   - Gerber, Alan S. and Donald P. Green. 2012. "__Field Experiments: Design, Analysis, and Interpretation.__" Chapter 1. (On Google Drive)
   - Duflo, Esther, Rachel Glennerster and Michael Kremer. 2007. "__Using Randomization in Development Economics Research: A Toolkit.__" [http://economics.mit.edu/files/806](http://economics.mit.edu/files/806)  __Chapters 4 & 5__
- -  https://www.econ.uzh.ch/dam/jcr:33649fc0-473f-49eb-932e-f40a7b5dba99/1091142115614392.pdf
 
 Applications:
   - Raffler, Pia. 2020. "__Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from an Electoral Autocracy.__" Working Paper. [Link](http://piaraffler.com/wp-content/uploads/2019/06/Raffler_Political-Oversight_June2019.pdf)
@@ -462,7 +461,7 @@ Applications:
 
 Additional Readings: 
   
-  - Abramson, Scott and Korhan Koçak and Asya Magazinnik. 2020. "__What Do We Learn About Voter Preferences From Conjoint Experiments?__" Working Paper. (Link)[https://nebula.wsimg.com/27122d2317f89a3e8c99b58f415adc63?AccessKeyId=2530DBBF8DA3DC4C7F79&disposition=0&alloworigin=1]
+  - Abramson, Scott and Korhan Koçak and Asya Magazinnik. 2020. "__What Do We Learn About Voter Preferences From Conjoint Experiments?__" Working Paper. [Link](https://nebula.wsimg.com/27122d2317f89a3e8c99b58f415adc63?AccessKeyId=2530DBBF8DA3DC4C7F79&disposition=0&alloworigin=1)
   - Ahlquist, John. 2018. "__List Experiment Design, Non-Strategic Respondent Error, and Item Count Technique Estimators.__" Political Analysis. 26(1):34-53.
   - Malesky, Eddy J. and Gueorguiev, Dimitar D. and Jensen, Nathan M. 2015. "__Monopoly Money: Foreign Investment and Bribery in Vietnam, a Survey Experiment.__" American Journal of Political Science. 59(2):419-439. 
   - Lyall, Jason and Blair, Graeme and Imai, Kosuke. 2013. "__Explaining Support for Combatants during Wartime: A Survey Experiment in Afghanistan.__" American Political Science Review. 107(4):679–705. 
