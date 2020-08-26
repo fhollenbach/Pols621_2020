@@ -341,7 +341,7 @@ Readings:
   - Cantoni, Davide and Noam Yuchtman. 2020. "__Historical Natural Experiments: Bridging Economics and Economic History.__" Prepared for the Handbook of Historical Economics. [Link](http://www.davidecantoni.net/pdfs/natural_experiments_chapter_20200128.pdf)
  
   
-Applications:
+Applications  __(pick one)__:
   - Broockman, David E. and Evan J. Soltas. 2020. "__A natural experiment on discrimination in elections.__" Journal of Public Economics. 188(August 2020).
   - Galiani, Sebastian and Ernesto Schargrodsky. 2010. "__Property Rights for the Poor: Effects of Land Titling.__" Journal of Public Economics 94(9):700-729.
  
@@ -416,7 +416,7 @@ Readings:
   - Dunning: chapter 4 & section 5.3
   - MM: chapter 3
   
-Applications:
+Applications __(pick one)__:
     
   - Acharya, Avidit and Blackwell, Matthew and Sen, Maya. 2016. "__The Political Legacy of American Slavery.__" The Journal of Politics.  78(3): 621-641.
   - Dittmar, Jeremiah E and Ralf R Meisenzahl. 2020. "__Public Goods Institutions, Human Capital, and Growth: Evidence from German History.__" The Review of Economic Studies. 87(2): 959–996. 
@@ -454,7 +454,7 @@ Readings:
   - Hainmueller, Jens and  Hangartner, Dominik and Yamamoto, Teppei. 2015. "__Do survey experiments capture real-world behavior?__" Proceedings of the National Academy of Sciences. [https://www.pnas.org/content/early/2015/01/28/1416587112.short](https://www.pnas.org/content/early/2015/01/28/1416587112.short)
   
   
-Applications:
+Applications __(pick one)__:
 
   - Cooperman, Alicia. 2020. "__Trading Favors: Local Politics and Development in Brazil.__" Working Paper. (On Google Drive)
   - Blair, Graeme, Kosuke Imai, and Jason Lyall. 2014. "__Comparing and Combining List and Endorsement Experiments: Evidence from Afghanistan.__" American Journal of Political Science. 58(4):1043-1063.
@@ -479,7 +479,7 @@ Readings:
   - MMSS Chapter 8
   - Lieberman, Evan I. 2005. "__Nested Analysis as a Mixed-Method Strategy for Comparative Research.__" American Political Science Review. 99(3): 435-452.
     
-Applications:
+Applications __(pick one)__:
 
  - Thachil, Tariq. 2017. "__Do Rural Migrants Divide Ethnically in the City? Evidence from an Ethnographic Experiment in India.__" American Journal of Political Science. 61(4):908-926. 
  - Lu, Yingdan and Jennifer Pan. 2020. "__Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visibility.__" Political Communication, DOI: 10.1080/10584609.2020.1765914 
