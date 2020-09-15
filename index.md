@@ -286,12 +286,11 @@ Additional Readings:
 
   - Gerring, John. 2007. "__Case Study Research: Principles and Practices.__" Cambridge University Press: Cambridge, MA. __Chapter 4__
 
-Reviews:
 
   
 ## Week 5 (09/22): Case Studies, Analytical Narratives, and Process Tracing (Virtual Visit by [Alisha Holland](http://alishaholland.com/))
 
-Presentation:
+Presentation: Maisie
 
 Readings: 
 
@@ -311,10 +310,9 @@ Additional Readings:
   - Skarbek, David. 2016. "__Covenants without the Sword? Comparing Prison Self-Governance Globally.__" American Political Science Review. 110(4): 845–62.
   - Skarbek, David. 2011. "__Governance and Prison Gangs.__" American Political Science Review. 105(4): 702–16. 
   
-Reviews:
   
   
-## Week 6 (09/29): Concepts of Causal Inference
+## Week 6 (09/29): Concepts of Causal Inference (Review 1 Due)
 
 Readings:
 
@@ -328,11 +326,10 @@ Additional readings:
   - Cunningham: Chapters "Directed acyclical graphs" & "Potential outcomes causal model"
   - Pearl, Judea and Dana Mackenzie. 2018. "__The Book of Why: The New Science of Cause and Effect.__" Basic Books.
   
-Reviews:
 
 ## Week 7 (10/06):  Discovering Natural Experiments (Virtual Visit by [David Broockman](https://polisci.berkeley.edu/people/person/david-broockman))
 
-Presentation: 
+Presentation: Francesco Bromo
 
 Readings: 
 
@@ -350,14 +347,12 @@ Additional Readings:
   - MMSS Chapter 6
   - Blattman, Christopher and Jeannie Annan, 2010. "__The Consequences of Child Soldiering.__" The Review of Economics and Statistics, MIT Press 92(4): 882-898.
   - Hainmueller, Jens, and Hangartner, Dominik. 2013. "__Who Gets a Swiss Passport? A Natural Experiment in Immigrant Discrimination.__" American Political Science Review. 107(1):159–187.
-
-Reviews:
   
  
 ## Week 8 (10/13)  Experiments   (Virtual Visit by [Pia Raffler](https://piaraffler.com/))
 __Submit Introduction/Research Motivation__
 
-Presentation: 
+Presentation: Chen Shen
 
 Readings:
   
@@ -376,12 +371,11 @@ Additional Readings:
   - Gottlieb, Jessica. 2016. "__Greater Expectations? A Field Experiment to Improve Accountability in Mali.__" American Journal of Political Science. 60(1): 143-157.
   - MMSS Chapter 7
 
-Reviews:
   
   
 ## Week 9 (10/20)  Regression Discontinuity (Virtual Visit by [Jacob Grumbach](https://sites.google.com/view/jakegrumbach)) 
 
-Presentation: 
+Presentation: Lu Sun 
 
 Readings:
 
@@ -406,10 +400,11 @@ Additional readings:
   - Ornstein, Joseph T. and Duck-Mayr, JBrandon. 2020. "__Gaussian Process Regression Discontinuity.__" Working Paper. [Link](https://joeornstein.github.io/publications/gprd.pdf)
   - De Magalhães, Leandro and Dominik Hangartner, Salomo Hirvonen, Jaakko Meriläinen, Nelson Ruiz, and Janne Tukiainen. 2020. "__How Much Should We Trust Regression Discontinuity Design Estimates? Evidence from Experimental Benchmarks of the Incumbency Advantage.__" APSA Preprints. [Link](https://preprints.apsanet.org/engage/apsa/article-details/5f1a03d613857400119c3b13).
   
-  Reviews: 
 
   
 ## Week 10 (10/27) Instrumental Variables 
+
+Presentation: Keigo Tanabe
 
 Readings:
 
@@ -427,12 +422,11 @@ Additional readings:
   - Sovey, Allison and Donald P. Green. 2011. "__Instrumental Variables Estimation in Political Science: A Readers’ Guide.__" American Journal of Political Science, 55(1):188-200.
   - Betz, Timm and Cook, Scott J. and Hollenbach, Florian M. 2019. "__Spatial Interdependence and Instrumental Variable Models.__". Political Science Research and Methods. In Print.
   
-Reviews:
 
      
 ## Week 11 (MONDAY 11/02) Big Data & Machine Learning (Virtual Visit by [Michelle Torres](http://smtorres.org/))
 
-Presentation: 
+Presentation: Manuela Munoz
 
 Readings: 
   - Egami, Naoki and Christian Fong and Margaret E. Roberts and Brandon M. Steward. 2020. "__How to Make Causal Inferences Using Texts.__" Working Paper. [Link](https://www.dropbox.com/s/b1n1r2qpyn3m77c/ais_final.pdf?dl=0)
@@ -440,13 +434,12 @@ Readings:
   - Grimmer, Justin. 2015. "__We Are All Social Scientists Now: How Big Data, Machine Learning, and Causal Inference Work Together__" PS: Political Science & Politics. 48(1):80-83.
   - Avenancio-León, Carlos and Troup Howard. 2020. "__The Assessment Gap: Racial Inequalities in Property Taxation.__". Working Paper. [Link](https://www.dropbox.com/s/d66yj47ze9h0mg1/Troup%20Howard%20JMP%2C%20Current.pdf?dl=1)
   
-Reviews:
   
   
 
-## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by [Alicia Cooperman](https://www.aliciacooperman.com/))
+## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by [Alicia Cooperman](https://www.aliciacooperman.com/)) (Review 2 due)
 
-Presentation: 
+Presentation: Thiago Moreira
 
 Readings: 
 
@@ -467,11 +460,11 @@ Additional Readings:
   - Lyall, Jason and Blair, Graeme and Imai, Kosuke. 2013. "__Explaining Support for Combatants during Wartime: A Survey Experiment in Afghanistan.__" American Political Science Review. 107(4):679–705. 
   - Frye, Timothy. 2006. "__Original Sin, Good Works, and Property Rights in Russia: Evidence from a Survey Experiment.__" World Politics 58(4):479-504.
 
-Reviews:
   
   
 ## Week 13 (11/17) Combining Quantitative and Qualitative Evidence (virtual visit by [Tariq Thachil](http://www.tariqthachil.com/))
 
+Presentation: Hank Yang
 
 Readings: 
     
