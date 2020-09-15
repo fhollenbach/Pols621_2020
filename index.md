@@ -290,7 +290,7 @@ Additional Readings:
   
 ## Week 5 (09/22): Case Studies, Analytical Narratives, and Process Tracing (Virtual Visit by [Alisha Holland](http://alishaholland.com/))
 
-Presentation: Maisie
+Presentation: MM
 
 Readings: 
 
