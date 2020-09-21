@@ -312,7 +312,7 @@ Additional Readings:
   
   
   
-## Week 6 (09/29): Concepts of Causal Inference (Review 1 Due)
+## Week 6 (09/29): Concepts of Causal Inference
 
 Readings:
 
@@ -328,6 +328,7 @@ Additional readings:
   
 
 ## Week 7 (10/06):  Discovering Natural Experiments (Virtual Visit by [David Broockman](https://polisci.berkeley.edu/people/person/david-broockman))
+__(Review 1 Due)__
 
 Presentation: Francesco Bromo
 
