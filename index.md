@@ -328,7 +328,6 @@ Additional readings:
   
 
 ## Week 7 (10/06):  Discovering Natural Experiments (Virtual Visit by [David Broockman](https://polisci.berkeley.edu/people/person/david-broockman))
-__(Review 1 Due)__
 
 Presentation: Francesco Bromo
 
@@ -351,7 +350,7 @@ Additional Readings:
   
  
 ## Week 8 (10/13)  Experiments   (Virtual Visit by [Pia Raffler](https://piaraffler.com/))
-__Submit Introduction/Research Motivation__
+__Submit Introduction/Research Motivation & Review 1 Due__
 
 Presentation: Chen Shen
 
@@ -438,7 +437,8 @@ Readings:
   
   
 
-## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by [Alicia Cooperman](https://www.aliciacooperman.com/)) (Review 2 due)
+## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by [Alicia Cooperman](https://www.aliciacooperman.com/)) 
+__Review 2 due__
 
 Presentation: Thiago Moreira
 
