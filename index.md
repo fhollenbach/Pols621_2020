@@ -350,7 +350,7 @@ Additional Readings:
   
  
 ## Week 8 (10/13)  Experiments   (Virtual Visit by [Pia Raffler](https://piaraffler.com/))
-__Submit Introduction/Research Motivation & Review 1 Due__
+__Submit Introduction/Research Motivation__
 
 Presentation: Chen Shen
 
@@ -374,6 +374,7 @@ Additional Readings:
   
   
 ## Week 9 (10/20)  Regression Discontinuity (Virtual Visit by [Jacob Grumbach](https://sites.google.com/view/jakegrumbach)) 
+__Review 1 Due__
 
 Presentation: Lu Sun 
 
