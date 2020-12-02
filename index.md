@@ -439,7 +439,6 @@ Readings:
   
 
 ## Week 12 (11/10) Surveys & Survey Experiments (virtual visit by [Alicia Cooperman](https://www.aliciacooperman.com/)) 
-__Review 2 due__
 
 Presentation: Thiago Moreira
 
@@ -465,6 +464,7 @@ Additional Readings:
   
   
 ## Week 13 (11/17) Combining Quantitative and Qualitative Evidence (virtual visit by [Tariq Thachil](http://www.tariqthachil.com/))
+__Review 2 due__
 
 Presentation: Hank Yang
 
